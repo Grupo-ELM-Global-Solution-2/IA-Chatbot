@@ -1,0 +1,2001 @@
+idade,area_atual,horas_disponiveis,nivel_logica,nivel_ingles,area_recomendada,tempo_estimado_semanas
+50,Direito,31,4,6,Cybersecurity,39
+36,Atendimento,21,7,7,Desenvolvimento Full Stack,48
+45,Vendas,14,5,6,UX/UI Design,55
+20,Engenharia,22,8,3,Data Science,48
+27,Engenharia,12,9,6,Data Science,51
+23,Administração,31,10,6,Data Science,33
+37,Administração,10,2,5,Product Management,64
+29,Administração,23,5,9,Desenvolvimento Full Stack,48
+27,Direito,20,5,8,Desenvolvimento Full Stack,50
+42,Saúde,12,5,6,UX/UI Design,62
+22,Saúde,28,7,6,UX/UI Design,41
+26,Educação,22,6,6,UX/UI Design,47
+43,Atendimento,29,10,2,Data Science,34
+30,Vendas,31,3,2,Product Management,45
+19,Educação,6,7,8,Desenvolvimento Full Stack,59
+24,Vendas,36,10,10,Data Science,32
+38,Atendimento,27,10,6,Data Science,38
+27,Administração,28,2,5,Product Management,53
+41,Educação,37,4,9,UX/UI Design,44
+47,Engenharia,11,7,8,Desenvolvimento Full Stack,54
+20,Educação,16,3,1,UX/UI Design,60
+22,Atendimento,38,1,4,Cybersecurity,45
+34,Administração,28,9,4,Data Science,36
+23,Direito,38,4,6,Cybersecurity,37
+54,Direito,18,7,7,Desenvolvimento Full Stack,51
+36,Administração,22,4,1,Product Management,52
+37,Atendimento,20,5,3,Cybersecurity,49
+48,Vendas,5,5,9,Desenvolvimento Full Stack,67
+25,Atendimento,37,4,3,Cybersecurity,44
+20,Vendas,15,10,7,Data Science,51
+49,Administração,38,2,1,Product Management,45
+54,Saúde,13,6,6,UX/UI Design,57
+20,Atendimento,9,8,9,Data Science,56
+49,Engenharia,10,5,3,UX/UI Design,63
+51,Engenharia,30,6,10,Desenvolvimento Full Stack,43
+37,Saúde,20,10,10,Data Science,46
+18,Educação,29,1,2,UX/UI Design,46
+41,Direito,9,8,7,Data Science,55
+30,Atendimento,29,8,4,Data Science,42
+26,Vendas,13,2,5,Product Management,61
+43,Administração,32,3,6,Product Management,43
+29,Saúde,20,8,8,Data Science,45
+53,Direito,10,7,1,Cybersecurity,54
+51,Vendas,38,2,10,Product Management,42
+54,Engenharia,33,10,4,Data Science,38
+50,Educação,20,6,1,UX/UI Design,53
+39,Atendimento,27,5,4,Cybersecurity,44
+55,Vendas,6,9,1,Data Science,62
+25,Direito,40,4,10,Cybersecurity,33
+46,Saúde,23,4,8,UX/UI Design,46
+52,Engenharia,33,3,3,UX/UI Design,43
+44,Direito,11,9,8,Data Science,49
+31,Administração,10,9,10,Data Science,50
+44,Atendimento,7,4,5,Cybersecurity,64
+21,Atendimento,27,2,2,Cybersecurity,48
+54,Atendimento,21,9,1,Data Science,50
+53,Atendimento,29,1,2,Cybersecurity,52
+51,Direito,30,8,3,Data Science,38
+31,Educação,40,1,7,UX/UI Design,36
+47,Direito,35,9,10,Data Science,39
+39,Educação,29,4,7,UX/UI Design,48
+32,Vendas,28,9,5,Data Science,45
+39,Educação,10,1,9,UX/UI Design,60
+25,Vendas,23,6,1,UX/UI Design,52
+29,Saúde,30,6,4,UX/UI Design,42
+29,Saúde,24,6,7,Desenvolvimento Full Stack,44
+27,Administração,25,3,5,Product Management,46
+29,Administração,32,1,4,Product Management,42
+23,Direito,27,2,4,Cybersecurity,51
+33,Administração,6,5,9,Desenvolvimento Full Stack,62
+47,Saúde,10,8,6,Data Science,51
+20,Direito,39,7,6,Cybersecurity,36
+46,Engenharia,20,6,10,Desenvolvimento Full Stack,48
+46,Saúde,30,6,7,Desenvolvimento Full Stack,42
+49,Engenharia,5,7,8,Desenvolvimento Full Stack,56
+52,Engenharia,23,1,7,UX/UI Design,55
+27,Vendas,16,7,9,Desenvolvimento Full Stack,57
+37,Saúde,5,10,4,Data Science,60
+32,Atendimento,38,6,7,Desenvolvimento Full Stack,33
+30,Engenharia,31,5,4,UX/UI Design,41
+18,Saúde,22,2,4,UX/UI Design,56
+47,Direito,14,3,9,Cybersecurity,55
+36,Vendas,34,9,2,Data Science,32
+35,Administração,6,9,1,Data Science,57
+39,Administração,5,4,9,Product Management,70
+26,Atendimento,16,5,8,Desenvolvimento Full Stack,55
+54,Educação,6,9,10,Data Science,55
+19,Engenharia,8,8,4,Data Science,62
+42,Vendas,37,4,1,Product Management,36
+50,Direito,16,7,5,Cybersecurity,51
+36,Engenharia,40,1,9,UX/UI Design,38
+40,Engenharia,17,8,2,Data Science,49
+23,Administração,14,5,5,UX/UI Design,58
+36,Administração,10,9,6,Data Science,50
+23,Educação,5,6,3,UX/UI Design,58
+37,Engenharia,34,7,5,UX/UI Design,43
+49,Direito,13,9,8,Data Science,53
+19,Saúde,20,5,9,Desenvolvimento Full Stack,55
+30,Saúde,15,1,9,UX/UI Design,56
+36,Direito,23,2,7,Cybersecurity,55
+36,Educação,28,2,3,UX/UI Design,47
+49,Direito,20,4,3,Cybersecurity,55
+25,Saúde,14,1,4,UX/UI Design,65
+45,Educação,19,4,8,UX/UI Design,51
+30,Educação,8,2,5,UX/UI Design,63
+28,Direito,9,6,10,Desenvolvimento Full Stack,56
+43,Educação,25,10,2,Data Science,39
+29,Educação,24,10,2,Data Science,41
+48,Vendas,21,6,4,UX/UI Design,47
+54,Vendas,14,6,7,Desenvolvimento Full Stack,55
+20,Administração,32,10,9,Data Science,37
+26,Atendimento,18,1,2,Cybersecurity,61
+22,Educação,10,3,1,UX/UI Design,59
+30,Direito,25,1,7,Cybersecurity,48
+35,Direito,34,9,2,Data Science,40
+35,Atendimento,33,3,3,Cybersecurity,45
+51,Direito,14,9,2,Data Science,54
+22,Direito,8,3,10,Cybersecurity,64
+21,Administração,39,6,9,Desenvolvimento Full Stack,32
+26,Educação,32,10,8,Data Science,32
+43,Educação,28,5,1,UX/UI Design,41
+51,Engenharia,29,1,1,UX/UI Design,51
+37,Direito,31,6,10,Desenvolvimento Full Stack,42
+50,Engenharia,33,7,3,UX/UI Design,40
+35,Vendas,37,3,7,Product Management,37
+18,Educação,30,3,10,UX/UI Design,48
+22,Engenharia,36,10,2,Data Science,29
+49,Saúde,20,1,3,UX/UI Design,59
+22,Educação,38,10,1,Data Science,34
+46,Saúde,26,6,2,UX/UI Design,47
+19,Educação,23,9,1,Data Science,49
+49,Engenharia,5,8,8,Data Science,63
+46,Atendimento,25,2,7,Cybersecurity,48
+47,Educação,15,5,7,Desenvolvimento Full Stack,52
+18,Administração,39,6,8,Desenvolvimento Full Stack,32
+26,Vendas,29,3,6,Product Management,49
+54,Engenharia,27,2,2,UX/UI Design,51
+19,Educação,9,8,1,Data Science,58
+34,Saúde,12,5,2,UX/UI Design,58
+55,Educação,18,10,5,Data Science,50
+21,Atendimento,10,8,9,Data Science,61
+37,Direito,17,6,2,Cybersecurity,54
+35,Vendas,24,2,8,Product Management,53
+20,Administração,16,5,2,UX/UI Design,59
+53,Saúde,5,3,4,UX/UI Design,63
+32,Vendas,30,10,3,Data Science,36
+20,Direito,32,6,9,Desenvolvimento Full Stack,37
+55,Educação,5,10,7,Data Science,54
+48,Atendimento,27,7,5,Cybersecurity,47
+28,Administração,33,1,5,Product Management,50
+33,Educação,11,5,8,Desenvolvimento Full Stack,57
+48,Administração,39,5,3,UX/UI Design,35
+27,Educação,5,10,1,Data Science,61
+28,Educação,34,1,9,UX/UI Design,49
+36,Administração,9,4,8,Product Management,59
+36,Vendas,25,4,5,Product Management,48
+37,Administração,19,4,7,Product Management,55
+42,Atendimento,36,8,7,Data Science,39
+51,Administração,19,9,10,Data Science,43
+47,Administração,17,4,3,Product Management,51
+32,Atendimento,6,5,2,Cybersecurity,66
+42,Direito,5,7,1,Cybersecurity,57
+41,Educação,20,4,3,UX/UI Design,53
+26,Educação,38,1,3,UX/UI Design,39
+22,Atendimento,26,2,7,Cybersecurity,46
+29,Direito,24,7,8,Desenvolvimento Full Stack,41
+55,Direito,35,2,8,Cybersecurity,38
+37,Engenharia,36,8,10,Data Science,31
+48,Atendimento,28,9,6,Data Science,41
+29,Administração,31,7,9,Desenvolvimento Full Stack,43
+47,Educação,26,8,8,Data Science,48
+29,Administração,38,2,10,Product Management,45
+30,Atendimento,34,3,7,Cybersecurity,38
+35,Vendas,23,1,7,Product Management,56
+39,Educação,19,7,7,Desenvolvimento Full Stack,49
+36,Administração,5,10,5,Data Science,54
+36,Engenharia,36,3,6,UX/UI Design,41
+46,Educação,12,6,3,UX/UI Design,53
+26,Atendimento,40,1,1,Cybersecurity,43
+40,Administração,24,7,10,Desenvolvimento Full Stack,51
+27,Vendas,7,9,10,Data Science,61
+45,Vendas,22,6,9,Desenvolvimento Full Stack,50
+28,Educação,26,4,8,UX/UI Design,49
+21,Administração,7,5,6,UX/UI Design,57
+38,Atendimento,20,8,6,Data Science,46
+44,Direito,11,6,8,Desenvolvimento Full Stack,60
+31,Engenharia,40,9,2,Data Science,35
+28,Atendimento,9,9,1,Data Science,58
+30,Direito,15,8,2,Data Science,52
+37,Saúde,27,5,10,Desenvolvimento Full Stack,45
+42,Vendas,17,7,8,Desenvolvimento Full Stack,51
+46,Administração,28,5,4,UX/UI Design,44
+31,Administração,14,8,6,Data Science,48
+34,Administração,8,5,7,Desenvolvimento Full Stack,64
+37,Administração,18,3,6,Product Management,52
+40,Vendas,28,3,9,Product Management,47
+32,Engenharia,20,9,2,Data Science,45
+29,Administração,21,7,1,UX/UI Design,45
+45,Direito,37,7,1,Cybersecurity,37
+43,Direito,27,7,10,Desenvolvimento Full Stack,42
+35,Atendimento,21,5,4,Cybersecurity,54
+19,Engenharia,34,1,2,UX/UI Design,44
+35,Direito,6,9,6,Data Science,54
+38,Engenharia,16,3,4,UX/UI Design,61
+40,Educação,7,7,1,UX/UI Design,61
+48,Engenharia,21,2,8,UX/UI Design,53
+39,Direito,14,10,1,Data Science,52
+33,Administração,6,8,9,Data Science,56
+33,Direito,30,8,7,Data Science,40
+37,Engenharia,28,7,1,UX/UI Design,40
+28,Engenharia,21,3,3,UX/UI Design,53
+47,Vendas,24,9,5,Data Science,45
+36,Educação,26,9,9,Data Science,42
+44,Vendas,20,8,10,Data Science,45
+44,Administração,6,1,9,Product Management,66
+21,Educação,35,7,7,Desenvolvimento Full Stack,38
+43,Administração,25,1,8,Product Management,57
+33,Direito,35,3,10,Cybersecurity,46
+54,Saúde,14,9,3,Data Science,51
+32,Administração,33,9,3,Data Science,35
+48,Administração,39,1,7,Product Management,37
+45,Educação,16,7,1,UX/UI Design,53
+38,Administração,30,8,4,Data Science,35
+32,Direito,8,4,2,Cybersecurity,66
+21,Administração,26,10,5,Data Science,38
+49,Educação,24,1,9,UX/UI Design,54
+54,Saúde,40,5,1,UX/UI Design,32
+40,Engenharia,5,2,1,UX/UI Design,68
+39,Vendas,17,2,10,Product Management,60
+23,Direito,15,10,3,Data Science,49
+44,Direito,7,1,8,Cybersecurity,71
+30,Direito,14,8,10,Data Science,55
+20,Engenharia,19,4,6,UX/UI Design,54
+31,Atendimento,12,2,1,Cybersecurity,65
+19,Administração,13,1,6,Product Management,57
+33,Atendimento,22,2,5,Cybersecurity,53
+43,Saúde,14,10,3,Data Science,51
+51,Atendimento,14,1,2,Cybersecurity,57
+39,Administração,25,6,2,UX/UI Design,44
+20,Engenharia,36,4,7,UX/UI Design,39
+28,Atendimento,30,7,7,Desenvolvimento Full Stack,38
+35,Direito,5,4,10,Cybersecurity,68
+36,Saúde,26,7,3,UX/UI Design,43
+40,Administração,11,4,6,Product Management,55
+25,Engenharia,16,6,5,UX/UI Design,52
+54,Engenharia,6,9,5,Data Science,55
+20,Saúde,38,1,2,UX/UI Design,41
+32,Administração,40,1,3,Product Management,42
+37,Administração,24,7,8,Desenvolvimento Full Stack,42
+31,Engenharia,38,3,6,UX/UI Design,41
+51,Direito,21,9,2,Data Science,44
+43,Vendas,9,3,8,Product Management,65
+32,Atendimento,17,5,10,Desenvolvimento Full Stack,53
+41,Direito,17,10,1,Data Science,49
+41,Administração,34,6,1,UX/UI Design,40
+23,Educação,5,5,10,Desenvolvimento Full Stack,59
+21,Educação,23,9,10,Data Science,49
+26,Educação,24,1,4,UX/UI Design,57
+54,Vendas,24,4,6,Product Management,46
+53,Vendas,23,4,1,Product Management,50
+40,Direito,7,4,6,Cybersecurity,59
+51,Atendimento,19,10,1,Data Science,42
+50,Engenharia,17,3,6,UX/UI Design,54
+29,Direito,7,6,2,Cybersecurity,63
+35,Administração,35,5,6,UX/UI Design,36
+26,Engenharia,20,2,3,UX/UI Design,56
+45,Vendas,39,7,3,UX/UI Design,39
+31,Vendas,32,6,3,UX/UI Design,39
+35,Direito,35,10,1,Data Science,32
+45,Direito,16,10,10,Data Science,50
+29,Saúde,12,5,7,Desenvolvimento Full Stack,61
+46,Direito,5,7,6,Cybersecurity,66
+29,Engenharia,22,1,7,UX/UI Design,59
+20,Educação,21,4,1,UX/UI Design,52
+49,Atendimento,14,8,1,Data Science,52
+28,Engenharia,16,2,7,UX/UI Design,59
+19,Atendimento,18,5,10,Desenvolvimento Full Stack,56
+35,Vendas,5,8,9,Data Science,64
+29,Engenharia,31,4,2,UX/UI Design,46
+36,Administração,40,8,9,Data Science,27
+49,Saúde,14,1,2,UX/UI Design,60
+51,Direito,27,3,5,Cybersecurity,52
+25,Vendas,23,5,3,UX/UI Design,46
+35,Engenharia,15,6,3,UX/UI Design,50
+38,Engenharia,33,4,10,UX/UI Design,42
+50,Administração,24,4,3,Product Management,51
+30,Educação,32,8,7,Data Science,39
+52,Engenharia,24,10,9,Data Science,37
+29,Direito,6,6,6,Cybersecurity,61
+52,Engenharia,33,8,7,Data Science,41
+43,Educação,27,6,9,Desenvolvimento Full Stack,44
+53,Engenharia,22,9,4,Data Science,45
+54,Administração,19,7,7,Desenvolvimento Full Stack,51
+50,Educação,32,9,1,Data Science,38
+18,Direito,20,8,6,Data Science,45
+34,Engenharia,40,8,1,Data Science,35
+54,Vendas,26,8,1,Data Science,40
+39,Saúde,5,1,7,UX/UI Design,71
+50,Educação,5,9,1,Data Science,57
+51,Atendimento,6,4,10,Cybersecurity,60
+46,Educação,34,1,6,UX/UI Design,50
+44,Vendas,21,7,2,UX/UI Design,49
+40,Direito,22,10,5,Data Science,47
+23,Engenharia,11,7,8,Desenvolvimento Full Stack,57
+19,Educação,32,6,9,Desenvolvimento Full Stack,46
+36,Vendas,18,3,1,Product Management,58
+33,Atendimento,7,10,1,Data Science,57
+25,Direito,9,6,5,Cybersecurity,61
+35,Atendimento,34,8,8,Data Science,38
+36,Vendas,39,10,1,Data Science,30
+40,Vendas,39,9,6,Data Science,29
+54,Atendimento,5,9,5,Data Science,57
+22,Educação,10,8,6,Data Science,61
+41,Direito,7,4,3,Cybersecurity,62
+25,Educação,5,7,5,UX/UI Design,60
+21,Educação,26,9,1,Data Science,45
+29,Direito,30,8,3,Data Science,44
+34,Vendas,26,8,10,Data Science,45
+36,Educação,18,7,4,UX/UI Design,53
+28,Educação,38,8,6,Data Science,30
+36,Administração,33,1,1,Product Management,48
+49,Atendimento,32,1,7,Cybersecurity,45
+37,Administração,7,2,3,Product Management,69
+43,Educação,14,4,2,UX/UI Design,53
+44,Direito,36,1,3,Cybersecurity,47
+27,Atendimento,15,6,7,Desenvolvimento Full Stack,51
+49,Educação,28,10,9,Data Science,42
+23,Engenharia,35,3,3,UX/UI Design,41
+34,Atendimento,19,5,6,Cybersecurity,53
+53,Atendimento,18,3,8,Cybersecurity,54
+48,Direito,31,3,9,Cybersecurity,45
+43,Administração,15,6,8,Desenvolvimento Full Stack,52
+24,Direito,17,7,6,Cybersecurity,54
+39,Atendimento,36,10,4,Data Science,33
+52,Engenharia,28,8,5,Data Science,37
+45,Vendas,22,8,6,Data Science,43
+27,Saúde,5,2,2,UX/UI Design,72
+46,Atendimento,6,2,2,Cybersecurity,67
+29,Saúde,10,7,10,Desenvolvimento Full Stack,57
+33,Educação,19,10,7,Data Science,43
+39,Atendimento,23,9,2,Data Science,46
+53,Direito,17,4,2,Cybersecurity,59
+49,Vendas,21,5,4,UX/UI Design,48
+22,Saúde,26,6,2,UX/UI Design,41
+31,Direito,12,5,1,Cybersecurity,54
+40,Vendas,22,5,10,Desenvolvimento Full Stack,50
+25,Saúde,8,10,4,Data Science,57
+52,Atendimento,33,10,5,Data Science,37
+45,Engenharia,39,3,4,UX/UI Design,43
+31,Administração,33,6,4,UX/UI Design,43
+37,Saúde,18,9,5,Data Science,49
+34,Administração,27,1,6,Product Management,48
+32,Atendimento,14,2,6,Cybersecurity,58
+28,Administração,17,9,10,Data Science,45
+26,Direito,26,6,1,Cybersecurity,44
+33,Saúde,23,10,3,Data Science,38
+30,Engenharia,8,1,8,UX/UI Design,64
+27,Vendas,21,7,3,UX/UI Design,50
+47,Direito,25,9,8,Data Science,43
+22,Educação,38,2,3,UX/UI Design,37
+40,Direito,23,2,6,Cybersecurity,51
+20,Engenharia,22,8,6,Data Science,48
+39,Vendas,14,10,10,Data Science,46
+51,Direito,40,2,5,Cybersecurity,40
+28,Engenharia,32,9,3,Data Science,41
+49,Saúde,32,7,6,UX/UI Design,35
+43,Saúde,10,9,8,Data Science,50
+22,Engenharia,8,2,9,UX/UI Design,61
+35,Vendas,38,4,9,Product Management,42
+41,Engenharia,15,2,1,UX/UI Design,64
+20,Vendas,27,6,10,Desenvolvimento Full Stack,44
+53,Engenharia,20,7,2,UX/UI Design,52
+54,Atendimento,21,7,2,Cybersecurity,53
+21,Educação,30,2,6,UX/UI Design,51
+18,Educação,23,1,10,UX/UI Design,57
+25,Vendas,15,4,10,Product Management,53
+48,Atendimento,31,6,2,Cybersecurity,44
+32,Direito,32,6,10,Desenvolvimento Full Stack,36
+30,Saúde,11,5,4,UX/UI Design,57
+20,Administração,17,4,2,Product Management,54
+55,Saúde,24,1,8,UX/UI Design,50
+43,Saúde,28,9,2,Data Science,37
+43,Engenharia,32,5,8,Desenvolvimento Full Stack,45
+20,Saúde,10,10,9,Data Science,52
+54,Atendimento,38,3,4,Cybersecurity,35
+41,Vendas,25,2,7,Product Management,52
+45,Vendas,25,6,8,Desenvolvimento Full Stack,49
+34,Educação,34,1,3,UX/UI Design,43
+46,Engenharia,25,9,7,Data Science,38
+53,Saúde,17,4,9,UX/UI Design,52
+37,Direito,19,4,6,Cybersecurity,51
+24,Atendimento,13,5,2,Cybersecurity,56
+35,Saúde,34,2,9,UX/UI Design,40
+38,Direito,15,9,4,Data Science,56
+44,Atendimento,31,9,4,Data Science,40
+48,Atendimento,30,9,2,Data Science,42
+27,Atendimento,10,5,3,Cybersecurity,56
+51,Vendas,17,9,8,Data Science,49
+41,Engenharia,13,2,3,UX/UI Design,61
+41,Educação,7,1,2,UX/UI Design,69
+37,Administração,31,7,8,Desenvolvimento Full Stack,39
+21,Engenharia,40,5,5,UX/UI Design,39
+51,Saúde,33,8,4,Data Science,40
+36,Atendimento,20,8,6,Data Science,47
+31,Vendas,39,2,1,Product Management,45
+18,Engenharia,26,8,10,Data Science,47
+19,Saúde,25,10,2,Data Science,39
+19,Engenharia,17,5,2,UX/UI Design,57
+42,Administração,29,3,8,Product Management,44
+19,Vendas,11,9,2,Data Science,51
+23,Educação,24,6,9,Desenvolvimento Full Stack,43
+43,Administração,31,9,4,Data Science,39
+28,Engenharia,13,8,10,Data Science,50
+52,Saúde,6,10,2,Data Science,57
+19,Engenharia,12,8,3,Data Science,54
+34,Educação,16,4,4,UX/UI Design,54
+51,Administração,23,3,4,Product Management,50
+55,Vendas,30,8,8,Data Science,40
+36,Vendas,6,3,4,Product Management,65
+48,Educação,6,4,8,UX/UI Design,67
+28,Engenharia,8,8,9,Data Science,62
+25,Engenharia,5,8,2,Data Science,58
+18,Saúde,16,3,2,UX/UI Design,59
+42,Administração,35,9,1,Data Science,30
+23,Administração,16,9,3,Data Science,51
+44,Engenharia,26,4,1,UX/UI Design,50
+45,Educação,12,10,9,Data Science,51
+42,Educação,25,8,10,Data Science,47
+37,Engenharia,16,5,1,UX/UI Design,51
+40,Educação,5,2,4,UX/UI Design,62
+37,Vendas,23,5,10,Desenvolvimento Full Stack,47
+53,Saúde,14,4,4,UX/UI Design,59
+41,Atendimento,37,3,4,Cybersecurity,42
+53,Atendimento,27,8,3,Data Science,38
+45,Educação,32,7,5,UX/UI Design,43
+19,Atendimento,22,1,10,Cybersecurity,50
+25,Atendimento,6,9,8,Data Science,61
+27,Vendas,16,4,8,Product Management,56
+22,Educação,21,2,8,UX/UI Design,56
+25,Engenharia,18,6,7,Desenvolvimento Full Stack,53
+44,Atendimento,22,6,6,Cybersecurity,53
+35,Engenharia,18,6,1,UX/UI Design,51
+41,Saúde,18,2,6,UX/UI Design,61
+18,Saúde,9,5,8,Desenvolvimento Full Stack,57
+48,Administração,16,6,6,UX/UI Design,53
+23,Educação,5,10,7,Data Science,54
+26,Saúde,24,9,7,Data Science,42
+36,Educação,24,5,8,Desenvolvimento Full Stack,48
+37,Direito,16,2,1,Cybersecurity,61
+54,Direito,20,2,1,Cybersecurity,60
+21,Engenharia,34,6,4,UX/UI Design,40
+48,Engenharia,28,1,3,UX/UI Design,49
+37,Direito,8,3,5,Cybersecurity,62
+42,Atendimento,40,6,10,Desenvolvimento Full Stack,31
+31,Atendimento,19,9,9,Data Science,44
+20,Educação,18,4,2,UX/UI Design,57
+54,Engenharia,29,7,10,Desenvolvimento Full Stack,46
+40,Vendas,19,7,7,Desenvolvimento Full Stack,53
+38,Saúde,35,1,9,UX/UI Design,41
+51,Educação,19,4,7,UX/UI Design,50
+42,Direito,23,7,3,Cybersecurity,45
+26,Educação,23,3,5,UX/UI Design,53
+35,Educação,25,3,5,UX/UI Design,45
+39,Educação,5,1,2,UX/UI Design,65
+52,Saúde,9,10,6,Data Science,54
+50,Saúde,25,10,7,Data Science,38
+41,Atendimento,23,4,4,Cybersecurity,49
+42,Engenharia,17,1,3,UX/UI Design,55
+42,Vendas,11,2,6,Product Management,63
+30,Administração,21,8,2,Data Science,52
+31,Saúde,6,3,10,UX/UI Design,69
+40,Engenharia,32,7,6,UX/UI Design,37
+18,Vendas,29,9,2,Data Science,37
+29,Educação,10,6,6,UX/UI Design,63
+18,Vendas,19,3,1,Product Management,53
+26,Vendas,10,6,3,UX/UI Design,60
+40,Saúde,34,9,10,Data Science,40
+21,Saúde,29,1,9,UX/UI Design,46
+46,Vendas,12,4,7,Product Management,60
+39,Atendimento,22,8,3,Data Science,46
+20,Vendas,6,6,7,Desenvolvimento Full Stack,64
+26,Saúde,24,10,7,Data Science,39
+52,Saúde,16,4,1,UX/UI Design,55
+36,Direito,25,8,2,Data Science,45
+35,Vendas,12,7,10,Desenvolvimento Full Stack,55
+26,Vendas,36,3,3,Product Management,43
+21,Educação,20,8,3,Data Science,49
+18,Direito,9,3,10,Cybersecurity,59
+19,Educação,40,5,3,UX/UI Design,39
+20,Atendimento,7,10,3,Data Science,56
+54,Vendas,24,7,3,UX/UI Design,42
+37,Direito,34,9,9,Data Science,35
+48,Educação,8,9,1,Data Science,55
+55,Direito,9,1,9,Cybersecurity,69
+52,Educação,17,5,3,UX/UI Design,54
+51,Engenharia,39,7,7,Desenvolvimento Full Stack,35
+46,Administração,22,1,7,Product Management,59
+20,Atendimento,17,2,1,Cybersecurity,55
+32,Vendas,37,1,1,Product Management,45
+32,Vendas,28,5,4,UX/UI Design,44
+20,Direito,17,8,3,Data Science,52
+44,Engenharia,40,3,3,UX/UI Design,39
+25,Vendas,26,1,4,Product Management,49
+40,Educação,37,7,5,UX/UI Design,37
+49,Administração,32,2,3,Product Management,46
+31,Engenharia,12,5,1,UX/UI Design,53
+39,Saúde,33,10,3,Data Science,31
+21,Administração,28,9,2,Data Science,39
+20,Administração,8,2,10,Product Management,68
+50,Vendas,27,9,6,Data Science,46
+50,Direito,31,1,3,Cybersecurity,44
+41,Direito,23,2,5,Cybersecurity,53
+53,Direito,28,8,5,Data Science,46
+40,Atendimento,8,2,4,Cybersecurity,64
+48,Educação,33,8,5,Data Science,34
+42,Vendas,13,2,9,Product Management,60
+49,Administração,39,1,3,Product Management,45
+30,Atendimento,17,7,4,Cybersecurity,55
+46,Saúde,32,3,5,UX/UI Design,47
+28,Administração,22,10,2,Data Science,41
+18,Direito,37,4,1,Cybersecurity,39
+34,Atendimento,7,3,8,Cybersecurity,60
+24,Educação,32,7,5,UX/UI Design,43
+44,Administração,36,4,1,Product Management,42
+39,Direito,17,9,8,Data Science,54
+29,Vendas,23,3,1,Product Management,52
+31,Administração,40,5,3,UX/UI Design,39
+30,Engenharia,36,8,6,Data Science,35
+31,Vendas,20,2,3,Product Management,50
+22,Vendas,5,1,5,Product Management,66
+26,Direito,10,6,6,Cybersecurity,54
+19,Direito,38,2,1,Cybersecurity,40
+19,Atendimento,30,9,9,Data Science,39
+46,Educação,34,1,6,UX/UI Design,43
+29,Educação,14,1,3,UX/UI Design,58
+49,Direito,13,6,5,Cybersecurity,54
+27,Educação,29,7,8,Desenvolvimento Full Stack,37
+31,Vendas,12,9,9,Data Science,52
+55,Saúde,9,6,2,UX/UI Design,56
+45,Engenharia,23,7,5,UX/UI Design,44
+48,Engenharia,9,8,7,Data Science,56
+39,Administração,37,3,5,Product Management,37
+43,Administração,20,1,2,Product Management,58
+52,Saúde,13,2,4,UX/UI Design,60
+50,Saúde,40,6,3,UX/UI Design,31
+53,Vendas,28,8,7,Data Science,46
+25,Direito,21,6,7,Desenvolvimento Full Stack,46
+22,Saúde,36,1,7,UX/UI Design,41
+40,Atendimento,40,8,6,Data Science,35
+19,Educação,40,5,9,Desenvolvimento Full Stack,39
+18,Atendimento,31,3,3,Cybersecurity,49
+38,Saúde,13,9,3,Data Science,56
+38,Vendas,18,7,4,UX/UI Design,48
+20,Direito,18,4,2,Cybersecurity,58
+37,Vendas,23,8,6,Data Science,42
+54,Saúde,5,4,7,UX/UI Design,62
+55,Direito,29,10,8,Data Science,37
+27,Direito,26,3,4,Cybersecurity,51
+21,Engenharia,6,5,8,Desenvolvimento Full Stack,67
+31,Engenharia,31,3,10,UX/UI Design,43
+39,Vendas,39,4,3,Product Management,36
+55,Saúde,7,1,8,UX/UI Design,63
+50,Vendas,13,6,3,UX/UI Design,54
+42,Engenharia,28,6,3,UX/UI Design,48
+28,Saúde,15,4,3,UX/UI Design,58
+53,Direito,39,4,7,Cybersecurity,39
+44,Direito,39,2,1,Cybersecurity,41
+42,Vendas,22,1,1,Product Management,51
+51,Administração,5,7,2,UX/UI Design,63
+41,Administração,10,10,9,Data Science,54
+53,Atendimento,13,10,6,Data Science,52
+35,Saúde,20,5,8,Desenvolvimento Full Stack,54
+55,Engenharia,34,8,9,Data Science,33
+34,Direito,35,7,7,Desenvolvimento Full Stack,40
+54,Vendas,34,8,4,Data Science,37
+46,Vendas,7,6,9,Desenvolvimento Full Stack,56
+42,Educação,24,10,8,Data Science,45
+53,Engenharia,33,8,9,Data Science,36
+21,Saúde,28,9,1,Data Science,40
+25,Educação,12,3,10,UX/UI Design,56
+32,Engenharia,16,6,2,UX/UI Design,51
+43,Administração,17,1,8,Product Management,56
+22,Educação,23,7,8,Desenvolvimento Full Stack,51
+27,Vendas,38,10,8,Data Science,31
+33,Direito,32,10,5,Data Science,40
+24,Direito,12,8,2,Data Science,58
+42,Educação,15,7,5,UX/UI Design,50
+20,Educação,27,9,3,Data Science,41
+43,Vendas,14,10,4,Data Science,49
+37,Educação,28,8,9,Data Science,37
+41,Atendimento,31,9,5,Data Science,36
+52,Engenharia,14,3,5,UX/UI Design,63
+51,Vendas,22,6,7,Desenvolvimento Full Stack,52
+32,Administração,18,6,6,UX/UI Design,55
+19,Atendimento,30,5,8,Desenvolvimento Full Stack,39
+42,Educação,32,9,1,Data Science,40
+38,Administração,13,4,6,Product Management,60
+40,Educação,28,3,10,UX/UI Design,52
+50,Educação,26,9,6,Data Science,45
+28,Administração,13,10,4,Data Science,52
+55,Educação,32,4,4,UX/UI Design,41
+51,Direito,10,6,8,Desenvolvimento Full Stack,58
+27,Engenharia,5,5,3,UX/UI Design,61
+35,Atendimento,39,8,4,Data Science,34
+53,Atendimento,39,7,10,Desenvolvimento Full Stack,35
+29,Atendimento,8,10,4,Data Science,53
+39,Saúde,38,10,8,Data Science,27
+28,Engenharia,21,1,10,UX/UI Design,60
+29,Engenharia,28,8,3,Data Science,46
+53,Educação,27,2,5,UX/UI Design,46
+51,Educação,23,6,2,UX/UI Design,44
+22,Vendas,10,6,6,UX/UI Design,54
+26,Educação,6,9,2,Data Science,53
+33,Atendimento,6,5,10,Desenvolvimento Full Stack,61
+27,Direito,13,5,4,Cybersecurity,55
+18,Atendimento,11,1,3,Cybersecurity,62
+18,Vendas,15,6,5,UX/UI Design,58
+39,Vendas,23,10,5,Data Science,41
+55,Educação,21,5,4,UX/UI Design,49
+20,Vendas,40,3,2,Product Management,36
+34,Vendas,37,2,7,Product Management,42
+48,Vendas,24,8,6,Data Science,47
+19,Saúde,36,8,4,Data Science,40
+27,Saúde,5,10,5,Data Science,56
+28,Direito,38,4,6,Cybersecurity,40
+35,Educação,33,3,10,UX/UI Design,40
+46,Direito,40,9,4,Data Science,35
+26,Educação,22,4,4,UX/UI Design,53
+23,Engenharia,19,7,4,UX/UI Design,51
+46,Saúde,31,9,3,Data Science,41
+33,Engenharia,37,4,6,UX/UI Design,34
+43,Atendimento,22,2,10,Cybersecurity,50
+39,Atendimento,22,3,9,Cybersecurity,57
+26,Administração,18,3,4,Product Management,51
+47,Saúde,22,2,1,UX/UI Design,56
+48,Engenharia,39,4,5,UX/UI Design,33
+37,Direito,9,7,10,Desenvolvimento Full Stack,59
+37,Engenharia,31,10,4,Data Science,37
+22,Engenharia,14,7,2,UX/UI Design,51
+31,Atendimento,5,1,10,Cybersecurity,70
+29,Educação,36,8,6,Data Science,36
+20,Educação,28,10,1,Data Science,38
+32,Vendas,25,9,9,Data Science,47
+47,Educação,10,5,9,Desenvolvimento Full Stack,61
+34,Vendas,37,1,5,Product Management,47
+22,Administração,32,1,6,Product Management,51
+29,Educação,23,4,4,UX/UI Design,49
+44,Atendimento,28,2,2,Cybersecurity,52
+25,Engenharia,15,1,1,UX/UI Design,58
+23,Administração,7,1,7,Product Management,64
+41,Vendas,8,5,7,Desenvolvimento Full Stack,60
+38,Engenharia,18,8,7,Data Science,47
+20,Engenharia,6,5,10,Desenvolvimento Full Stack,59
+30,Engenharia,15,9,4,Data Science,54
+39,Direito,20,8,7,Data Science,51
+51,Vendas,38,4,7,Product Management,41
+53,Saúde,14,1,4,UX/UI Design,61
+21,Saúde,29,10,1,Data Science,37
+33,Atendimento,14,2,9,Cybersecurity,59
+27,Educação,35,9,4,Data Science,36
+24,Vendas,7,7,9,Desenvolvimento Full Stack,57
+38,Engenharia,31,4,8,UX/UI Design,48
+48,Engenharia,35,6,1,UX/UI Design,37
+51,Vendas,12,9,4,Data Science,49
+52,Educação,34,3,5,UX/UI Design,47
+54,Direito,37,5,6,Cybersecurity,42
+20,Engenharia,35,9,8,Data Science,34
+23,Engenharia,33,4,4,UX/UI Design,46
+46,Vendas,36,7,1,UX/UI Design,37
+47,Administração,6,4,3,Product Management,64
+45,Administração,36,7,1,UX/UI Design,38
+31,Engenharia,7,9,9,Data Science,57
+44,Vendas,24,5,6,UX/UI Design,43
+27,Atendimento,7,2,4,Cybersecurity,66
+24,Saúde,32,3,1,UX/UI Design,47
+19,Saúde,31,7,10,Desenvolvimento Full Stack,44
+47,Vendas,34,10,2,Data Science,30
+42,Educação,25,10,5,Data Science,37
+51,Educação,22,2,1,UX/UI Design,56
+37,Vendas,11,3,7,Product Management,64
+25,Engenharia,13,5,6,UX/UI Design,59
+52,Administração,26,6,4,UX/UI Design,44
+37,Engenharia,22,9,1,Data Science,50
+46,Administração,17,8,5,Data Science,49
+51,Saúde,37,4,4,UX/UI Design,40
+39,Engenharia,15,7,9,Desenvolvimento Full Stack,53
+39,Atendimento,13,2,4,Cybersecurity,56
+42,Administração,8,6,7,Desenvolvimento Full Stack,56
+38,Vendas,25,8,2,Data Science,48
+26,Atendimento,16,10,1,Data Science,48
+31,Vendas,29,3,8,Product Management,48
+30,Engenharia,18,1,8,UX/UI Design,56
+37,Engenharia,9,6,8,Desenvolvimento Full Stack,58
+45,Educação,21,7,5,UX/UI Design,51
+39,Atendimento,15,10,4,Data Science,54
+30,Saúde,38,5,5,UX/UI Design,33
+25,Administração,30,4,5,Product Management,49
+18,Engenharia,39,3,2,UX/UI Design,38
+26,Direito,6,4,2,Cybersecurity,61
+24,Administração,8,7,4,UX/UI Design,61
+20,Engenharia,6,1,4,UX/UI Design,65
+49,Administração,38,9,7,Data Science,28
+34,Educação,19,2,9,UX/UI Design,59
+37,Atendimento,7,3,5,Cybersecurity,62
+24,Educação,36,7,4,UX/UI Design,35
+26,Engenharia,5,7,8,Desenvolvimento Full Stack,64
+20,Atendimento,14,10,2,Data Science,54
+30,Direito,34,7,7,Desenvolvimento Full Stack,35
+47,Saúde,18,7,4,UX/UI Design,51
+23,Administração,38,2,6,Product Management,40
+41,Administração,35,10,2,Data Science,30
+31,Atendimento,10,10,10,Data Science,53
+54,Saúde,22,3,1,UX/UI Design,50
+35,Educação,14,10,4,Data Science,54
+22,Direito,30,10,8,Data Science,35
+51,Atendimento,30,8,5,Data Science,37
+46,Atendimento,17,2,1,Cybersecurity,61
+53,Direito,20,10,1,Data Science,47
+37,Engenharia,7,1,4,UX/UI Design,66
+42,Vendas,26,6,3,UX/UI Design,42
+26,Engenharia,24,3,10,UX/UI Design,50
+28,Atendimento,25,10,5,Data Science,44
+23,Engenharia,7,8,2,Data Science,54
+18,Direito,7,7,10,Desenvolvimento Full Stack,59
+43,Educação,34,10,6,Data Science,38
+46,Administração,23,10,8,Data Science,39
+49,Atendimento,34,1,2,Cybersecurity,44
+54,Educação,37,1,5,UX/UI Design,43
+38,Direito,9,6,9,Desenvolvimento Full Stack,58
+52,Administração,21,7,8,Desenvolvimento Full Stack,51
+25,Educação,31,2,5,UX/UI Design,49
+45,Direito,31,9,5,Data Science,37
+35,Atendimento,22,10,9,Data Science,44
+20,Engenharia,27,8,3,Data Science,44
+25,Vendas,24,7,5,UX/UI Design,42
+48,Vendas,27,10,6,Data Science,40
+21,Administração,40,1,8,Product Management,37
+46,Educação,22,8,2,Data Science,51
+39,Atendimento,24,8,8,Data Science,46
+53,Atendimento,35,3,3,Cybersecurity,44
+31,Vendas,23,1,8,Product Management,57
+37,Engenharia,26,3,6,UX/UI Design,52
+29,Atendimento,20,10,3,Data Science,45
+50,Direito,23,9,1,Data Science,43
+30,Educação,37,8,10,Data Science,32
+27,Educação,27,4,8,UX/UI Design,48
+25,Atendimento,17,1,4,Cybersecurity,55
+49,Educação,29,7,4,UX/UI Design,42
+55,Atendimento,18,4,9,Cybersecurity,52
+38,Atendimento,40,9,3,Data Science,33
+30,Educação,24,3,9,UX/UI Design,46
+36,Vendas,17,10,8,Data Science,47
+49,Saúde,30,5,5,UX/UI Design,42
+36,Direito,39,3,2,Cybersecurity,36
+48,Vendas,40,3,10,Product Management,37
+48,Engenharia,26,8,3,Data Science,44
+28,Administração,11,1,7,Product Management,60
+55,Administração,34,5,1,UX/UI Design,42
+40,Direito,17,4,1,Cybersecurity,50
+55,Saúde,40,2,5,UX/UI Design,39
+46,Saúde,30,2,10,UX/UI Design,47
+43,Direito,5,7,6,Cybersecurity,60
+25,Saúde,25,5,7,Desenvolvimento Full Stack,45
+35,Educação,14,9,5,Data Science,51
+50,Atendimento,15,4,9,Cybersecurity,60
+49,Atendimento,7,6,3,Cybersecurity,58
+28,Engenharia,39,10,3,Data Science,28
+42,Educação,14,1,2,UX/UI Design,59
+51,Educação,26,7,1,UX/UI Design,40
+20,Saúde,9,4,7,UX/UI Design,57
+53,Atendimento,11,5,9,Desenvolvimento Full Stack,62
+26,Saúde,34,9,1,Data Science,32
+53,Administração,13,4,9,Product Management,58
+23,Engenharia,14,2,2,UX/UI Design,63
+49,Saúde,18,9,6,Data Science,46
+21,Vendas,12,3,3,Product Management,57
+53,Atendimento,27,6,5,Cybersecurity,44
+26,Vendas,36,9,4,Data Science,36
+34,Engenharia,36,4,4,UX/UI Design,45
+28,Direito,35,10,4,Data Science,33
+39,Direito,5,6,7,Desenvolvimento Full Stack,62
+38,Saúde,40,10,1,Data Science,27
+33,Atendimento,40,4,2,Cybersecurity,41
+34,Vendas,23,2,5,Product Management,57
+21,Saúde,7,9,10,Data Science,54
+26,Direito,33,7,9,Desenvolvimento Full Stack,40
+46,Educação,5,1,8,UX/UI Design,69
+26,Saúde,22,10,2,Data Science,44
+26,Direito,10,2,3,Cybersecurity,62
+49,Atendimento,11,1,3,Cybersecurity,61
+46,Engenharia,32,7,2,UX/UI Design,38
+40,Direito,14,10,4,Data Science,51
+22,Educação,20,1,1,UX/UI Design,58
+18,Atendimento,20,2,2,Cybersecurity,56
+32,Educação,7,2,5,UX/UI Design,66
+36,Vendas,36,9,5,Data Science,29
+34,Direito,17,4,7,Cybersecurity,57
+52,Educação,33,5,6,UX/UI Design,43
+23,Engenharia,36,7,6,UX/UI Design,35
+33,Direito,37,1,9,Cybersecurity,44
+39,Engenharia,30,9,4,Data Science,37
+43,Vendas,8,1,4,Product Management,62
+51,Atendimento,34,1,9,Cybersecurity,43
+49,Atendimento,29,6,1,Cybersecurity,42
+44,Saúde,20,3,1,UX/UI Design,55
+48,Saúde,19,4,5,UX/UI Design,54
+35,Engenharia,27,6,5,UX/UI Design,49
+37,Administração,22,1,5,Product Management,57
+54,Atendimento,7,2,7,Cybersecurity,68
+21,Direito,36,1,1,Cybersecurity,40
+43,Atendimento,31,2,3,Cybersecurity,48
+34,Administração,30,6,7,Desenvolvimento Full Stack,38
+27,Direito,14,6,9,Desenvolvimento Full Stack,51
+40,Administração,31,3,5,Product Management,48
+48,Engenharia,25,3,6,UX/UI Design,49
+31,Educação,12,8,9,Data Science,53
+48,Administração,40,6,6,UX/UI Design,38
+28,Engenharia,39,2,7,UX/UI Design,36
+41,Direito,21,5,7,Desenvolvimento Full Stack,51
+43,Vendas,5,2,2,Product Management,71
+50,Engenharia,7,9,6,Data Science,56
+18,Engenharia,14,3,10,UX/UI Design,59
+21,Administração,27,9,2,Data Science,40
+22,Educação,20,4,5,UX/UI Design,51
+26,Direito,13,1,7,Cybersecurity,61
+39,Vendas,13,9,2,Data Science,53
+35,Direito,6,7,9,Desenvolvimento Full Stack,58
+22,Administração,40,5,3,UX/UI Design,38
+20,Atendimento,32,2,4,Cybersecurity,44
+38,Engenharia,10,1,3,UX/UI Design,60
+21,Saúde,27,6,2,UX/UI Design,48
+22,Administração,13,6,7,Desenvolvimento Full Stack,55
+30,Saúde,21,5,6,UX/UI Design,55
+46,Engenharia,31,3,2,UX/UI Design,44
+37,Atendimento,25,10,2,Data Science,44
+22,Saúde,24,7,1,UX/UI Design,42
+26,Administração,27,8,1,Data Science,39
+49,Vendas,27,6,5,UX/UI Design,46
+22,Saúde,5,5,5,UX/UI Design,61
+20,Vendas,29,2,9,Product Management,50
+28,Engenharia,13,10,6,Data Science,48
+22,Engenharia,28,5,4,UX/UI Design,43
+20,Engenharia,20,3,1,UX/UI Design,51
+36,Vendas,5,4,6,Product Management,69
+33,Educação,13,3,9,UX/UI Design,61
+34,Administração,30,9,3,Data Science,35
+38,Atendimento,33,7,6,Cybersecurity,37
+45,Atendimento,33,2,5,Cybersecurity,48
+53,Saúde,34,4,5,UX/UI Design,45
+40,Atendimento,34,10,2,Data Science,35
+20,Educação,12,7,3,UX/UI Design,54
+44,Administração,37,7,7,Desenvolvimento Full Stack,40
+44,Saúde,35,8,10,Data Science,34
+52,Vendas,25,3,2,Product Management,47
+45,Saúde,38,9,3,Data Science,36
+53,Direito,32,2,2,Cybersecurity,44
+45,Atendimento,23,10,4,Data Science,43
+19,Direito,34,7,2,Cybersecurity,42
+50,Vendas,19,5,10,Desenvolvimento Full Stack,51
+50,Direito,30,2,8,Cybersecurity,51
+40,Direito,37,8,4,Data Science,38
+52,Direito,17,8,3,Data Science,49
+30,Direito,12,3,5,Cybersecurity,56
+47,Atendimento,9,9,7,Data Science,57
+54,Vendas,10,2,10,Product Management,63
+25,Administração,38,8,1,Data Science,35
+33,Saúde,10,5,2,UX/UI Design,61
+28,Saúde,17,2,9,UX/UI Design,56
+49,Direito,27,2,5,Cybersecurity,47
+28,Direito,11,4,2,Cybersecurity,62
+51,Engenharia,7,9,9,Data Science,60
+37,Atendimento,38,10,5,Data Science,27
+23,Engenharia,23,10,3,Data Science,39
+29,Administração,36,2,4,Product Management,43
+50,Educação,11,7,2,UX/UI Design,60
+45,Administração,23,1,9,Product Management,54
+24,Atendimento,18,8,4,Data Science,48
+32,Engenharia,38,6,3,UX/UI Design,34
+44,Atendimento,17,6,4,Cybersecurity,53
+24,Educação,38,1,8,UX/UI Design,38
+53,Saúde,25,2,7,UX/UI Design,47
+19,Vendas,36,7,8,Desenvolvimento Full Stack,34
+53,Direito,12,2,8,Cybersecurity,58
+21,Saúde,9,8,4,Data Science,55
+54,Vendas,11,3,7,Product Management,58
+35,Educação,5,1,2,UX/UI Design,73
+20,Atendimento,8,4,1,Cybersecurity,65
+31,Engenharia,25,9,1,Data Science,42
+35,Educação,34,9,7,Data Science,35
+27,Saúde,22,10,3,Data Science,47
+31,Atendimento,23,6,2,Cybersecurity,46
+52,Vendas,5,1,10,Product Management,64
+43,Educação,25,10,10,Data Science,43
+47,Engenharia,20,1,2,UX/UI Design,56
+25,Administração,17,10,3,Data Science,43
+54,Educação,22,6,8,Desenvolvimento Full Stack,46
+25,Direito,8,7,5,Cybersecurity,57
+18,Direito,28,5,1,Cybersecurity,46
+50,Administração,15,3,10,Product Management,56
+35,Atendimento,15,4,4,Cybersecurity,53
+41,Engenharia,9,4,9,UX/UI Design,66
+35,Vendas,28,4,4,Product Management,50
+25,Educação,14,1,5,UX/UI Design,62
+41,Administração,16,6,10,Desenvolvimento Full Stack,58
+30,Vendas,8,9,10,Data Science,61
+41,Direito,33,7,9,Desenvolvimento Full Stack,39
+54,Direito,17,2,3,Cybersecurity,62
+19,Engenharia,28,7,5,UX/UI Design,39
+39,Administração,33,5,5,UX/UI Design,45
+18,Atendimento,17,4,1,Cybersecurity,53
+35,Atendimento,29,6,7,Desenvolvimento Full Stack,43
+40,Educação,23,10,1,Data Science,40
+25,Administração,40,4,4,Product Management,37
+23,Engenharia,8,6,5,UX/UI Design,59
+18,Engenharia,40,4,3,UX/UI Design,39
+52,Educação,6,7,9,Desenvolvimento Full Stack,59
+53,Vendas,8,5,7,Desenvolvimento Full Stack,56
+20,Saúde,30,1,5,UX/UI Design,48
+35,Vendas,18,9,3,Data Science,44
+25,Atendimento,14,8,9,Data Science,51
+49,Direito,23,9,5,Data Science,47
+35,Atendimento,26,5,8,Desenvolvimento Full Stack,49
+38,Administração,16,1,2,Product Management,55
+23,Vendas,31,3,4,Product Management,49
+26,Vendas,23,2,5,Product Management,50
+31,Vendas,35,4,8,Product Management,43
+27,Administração,14,5,10,Desenvolvimento Full Stack,55
+18,Educação,17,4,6,UX/UI Design,53
+30,Engenharia,21,3,10,UX/UI Design,55
+26,Engenharia,13,5,7,Desenvolvimento Full Stack,60
+50,Engenharia,24,9,7,Data Science,44
+20,Saúde,22,1,1,UX/UI Design,54
+43,Vendas,5,5,8,Desenvolvimento Full Stack,65
+33,Engenharia,28,1,5,UX/UI Design,48
+46,Atendimento,24,10,1,Data Science,38
+35,Engenharia,24,4,10,UX/UI Design,53
+38,Educação,22,4,7,UX/UI Design,53
+23,Engenharia,9,5,5,UX/UI Design,62
+54,Vendas,7,2,8,Product Management,66
+45,Saúde,13,1,5,UX/UI Design,64
+47,Direito,37,4,9,Cybersecurity,36
+27,Saúde,22,7,6,UX/UI Design,48
+41,Educação,31,3,3,UX/UI Design,44
+44,Educação,34,3,5,UX/UI Design,44
+53,Engenharia,30,4,4,UX/UI Design,43
+20,Direito,11,3,8,Cybersecurity,60
+48,Vendas,34,3,8,Product Management,41
+40,Direito,32,10,2,Data Science,32
+33,Direito,31,10,5,Data Science,40
+32,Engenharia,6,6,3,UX/UI Design,66
+28,Saúde,16,9,4,Data Science,50
+25,Saúde,25,3,3,UX/UI Design,52
+29,Direito,21,1,6,Cybersecurity,51
+35,Saúde,31,4,10,UX/UI Design,48
+31,Administração,12,6,10,Desenvolvimento Full Stack,53
+22,Vendas,17,7,7,Desenvolvimento Full Stack,52
+51,Saúde,10,5,8,Desenvolvimento Full Stack,61
+54,Direito,9,4,9,Cybersecurity,60
+44,Educação,21,2,6,UX/UI Design,51
+32,Administração,24,4,9,Product Management,50
+29,Vendas,16,8,1,Data Science,53
+37,Vendas,34,6,5,UX/UI Design,40
+47,Atendimento,37,2,6,Cybersecurity,37
+27,Engenharia,23,5,6,UX/UI Design,51
+40,Administração,9,7,8,Desenvolvimento Full Stack,53
+37,Direito,9,4,9,Cybersecurity,62
+25,Educação,5,9,8,Data Science,59
+40,Direito,32,6,1,Cybersecurity,39
+54,Engenharia,5,7,7,Desenvolvimento Full Stack,66
+31,Educação,6,10,9,Data Science,61
+55,Engenharia,19,6,7,Desenvolvimento Full Stack,49
+28,Direito,22,5,4,Cybersecurity,55
+41,Atendimento,26,2,9,Cybersecurity,55
+33,Saúde,7,2,6,UX/UI Design,66
+45,Direito,8,7,7,Desenvolvimento Full Stack,56
+22,Direito,10,5,2,Cybersecurity,60
+44,Vendas,36,5,1,UX/UI Design,42
+48,Administração,31,8,1,Data Science,39
+32,Direito,25,2,2,Cybersecurity,49
+49,Educação,6,2,3,UX/UI Design,68
+26,Atendimento,16,8,10,Data Science,56
+55,Atendimento,24,9,5,Data Science,41
+21,Atendimento,28,1,5,Cybersecurity,48
+18,Vendas,21,1,10,Product Management,51
+35,Engenharia,7,10,6,Data Science,58
+50,Direito,16,1,1,Cybersecurity,57
+45,Educação,18,5,4,UX/UI Design,54
+49,Educação,7,8,2,Data Science,59
+31,Direito,32,10,7,Data Science,38
+33,Saúde,24,7,10,Desenvolvimento Full Stack,43
+33,Engenharia,28,3,9,UX/UI Design,51
+22,Administração,34,3,5,Product Management,44
+32,Saúde,35,2,2,UX/UI Design,39
+19,Atendimento,12,4,10,Cybersecurity,57
+31,Saúde,39,7,2,UX/UI Design,29
+38,Educação,6,1,5,UX/UI Design,72
+36,Educação,8,2,10,UX/UI Design,65
+41,Administração,7,6,7,Desenvolvimento Full Stack,61
+25,Atendimento,11,10,2,Data Science,51
+49,Direito,17,9,3,Data Science,45
+48,Vendas,11,9,2,Data Science,59
+18,Administração,30,9,10,Data Science,41
+51,Direito,38,4,1,Cybersecurity,40
+44,Vendas,5,10,4,Data Science,53
+31,Educação,38,3,4,UX/UI Design,37
+24,Vendas,12,1,3,Product Management,67
+32,Engenharia,32,4,8,UX/UI Design,46
+50,Direito,11,7,6,Cybersecurity,52
+19,Educação,28,6,4,UX/UI Design,39
+19,Saúde,25,1,2,UX/UI Design,56
+19,Administração,24,6,1,UX/UI Design,49
+32,Administração,33,1,1,Product Management,44
+33,Atendimento,25,8,3,Data Science,48
+26,Administração,9,8,10,Data Science,54
+54,Direito,35,8,9,Data Science,33
+35,Saúde,9,7,4,UX/UI Design,61
+26,Administração,29,7,1,UX/UI Design,45
+36,Engenharia,11,2,4,UX/UI Design,63
+25,Atendimento,13,2,1,Cybersecurity,65
+38,Engenharia,11,5,1,UX/UI Design,63
+35,Atendimento,12,3,9,Cybersecurity,62
+50,Atendimento,23,10,8,Data Science,46
+30,Administração,11,10,3,Data Science,51
+35,Direito,5,4,2,Cybersecurity,68
+53,Engenharia,12,3,4,UX/UI Design,65
+48,Vendas,33,5,6,UX/UI Design,39
+46,Administração,15,9,5,Data Science,53
+49,Saúde,30,8,7,Data Science,44
+54,Atendimento,16,9,1,Data Science,49
+27,Administração,17,4,9,Product Management,59
+36,Vendas,11,1,1,Product Management,67
+44,Educação,7,2,9,UX/UI Design,62
+30,Saúde,15,7,2,UX/UI Design,54
+49,Educação,23,1,6,UX/UI Design,54
+53,Saúde,34,5,9,Desenvolvimento Full Stack,45
+43,Administração,15,7,1,UX/UI Design,52
+51,Vendas,9,9,1,Data Science,58
+51,Direito,12,9,3,Data Science,55
+23,Engenharia,33,2,1,UX/UI Design,50
+45,Administração,27,2,1,Product Management,45
+45,Administração,14,6,8,Desenvolvimento Full Stack,58
+36,Educação,40,3,9,UX/UI Design,34
+55,Atendimento,5,9,6,Data Science,54
+38,Atendimento,36,1,4,Cybersecurity,48
+18,Administração,19,10,10,Data Science,51
+49,Engenharia,27,9,4,Data Science,38
+37,Administração,25,6,4,UX/UI Design,47
+41,Engenharia,17,6,9,Desenvolvimento Full Stack,51
+50,Atendimento,22,9,2,Data Science,46
+19,Direito,31,10,2,Data Science,41
+20,Atendimento,11,7,3,Cybersecurity,59
+54,Direito,36,9,2,Data Science,37
+28,Engenharia,7,3,5,UX/UI Design,68
+38,Saúde,12,10,2,Data Science,48
+34,Educação,28,7,8,Desenvolvimento Full Stack,42
+22,Atendimento,33,8,6,Data Science,41
+29,Atendimento,37,2,2,Cybersecurity,43
+54,Administração,24,3,10,Product Management,49
+44,Saúde,27,7,1,UX/UI Design,42
+39,Saúde,30,9,10,Data Science,36
+18,Administração,12,4,8,Product Management,57
+21,Saúde,13,8,4,Data Science,53
+44,Engenharia,32,1,9,UX/UI Design,44
+46,Atendimento,9,6,5,Cybersecurity,56
+18,Educação,40,6,10,Desenvolvimento Full Stack,35
+50,Vendas,15,4,1,Product Management,52
+47,Educação,24,8,2,Data Science,50
+22,Direito,39,7,2,Cybersecurity,33
+53,Administração,11,7,6,UX/UI Design,57
+49,Direito,29,7,1,Cybersecurity,42
+29,Saúde,11,1,5,UX/UI Design,61
+32,Engenharia,30,4,9,UX/UI Design,46
+25,Educação,10,9,3,Data Science,51
+23,Administração,28,2,9,Product Management,50
+50,Vendas,21,8,9,Data Science,49
+22,Vendas,23,7,6,UX/UI Design,43
+26,Engenharia,21,8,2,Data Science,52
+39,Atendimento,17,3,4,Cybersecurity,57
+28,Vendas,29,8,9,Data Science,44
+49,Administração,6,8,9,Data Science,63
+43,Saúde,23,9,1,Data Science,44
+51,Educação,31,3,5,UX/UI Design,47
+27,Saúde,14,4,7,UX/UI Design,54
+55,Saúde,34,3,7,UX/UI Design,42
+50,Saúde,34,3,6,UX/UI Design,44
+29,Vendas,27,9,7,Data Science,44
+53,Educação,17,1,7,UX/UI Design,55
+43,Engenharia,29,10,7,Data Science,35
+31,Direito,30,4,6,Cybersecurity,46
+33,Administração,20,6,8,Desenvolvimento Full Stack,49
+18,Administração,23,7,10,Desenvolvimento Full Stack,47
+46,Vendas,35,7,3,UX/UI Design,32
+42,Administração,33,3,2,Product Management,46
+24,Administração,20,3,5,Product Management,58
+34,Saúde,25,9,10,Data Science,41
+33,Direito,36,10,10,Data Science,32
+36,Direito,15,7,5,Cybersecurity,53
+47,Direito,8,1,1,Cybersecurity,62
+31,Atendimento,18,2,3,Cybersecurity,57
+55,Engenharia,20,4,7,UX/UI Design,55
+39,Educação,28,3,1,UX/UI Design,44
+40,Engenharia,26,7,5,UX/UI Design,48
+47,Administração,16,8,9,Data Science,51
+22,Direito,21,3,8,Cybersecurity,53
+51,Atendimento,8,1,6,Cybersecurity,64
+53,Administração,8,9,3,Data Science,60
+30,Educação,34,4,2,UX/UI Design,44
+28,Administração,5,8,2,Data Science,63
+39,Educação,29,2,4,UX/UI Design,51
+30,Saúde,40,6,4,UX/UI Design,37
+23,Atendimento,31,1,6,Cybersecurity,44
+53,Vendas,31,10,9,Data Science,35
+39,Direito,39,8,10,Data Science,36
+40,Administração,34,7,6,UX/UI Design,41
+49,Vendas,36,2,7,Product Management,38
+50,Atendimento,15,3,4,Cybersecurity,57
+22,Vendas,38,9,1,Data Science,30
+55,Direito,6,6,1,Cybersecurity,66
+32,Engenharia,16,1,10,UX/UI Design,61
+23,Administração,16,7,1,UX/UI Design,54
+22,Atendimento,38,9,6,Data Science,35
+27,Educação,14,3,7,UX/UI Design,62
+41,Direito,26,6,10,Desenvolvimento Full Stack,41
+44,Vendas,25,3,9,Product Management,48
+36,Vendas,40,6,5,UX/UI Design,36
+35,Educação,38,10,10,Data Science,31
+28,Saúde,29,6,8,Desenvolvimento Full Stack,47
+51,Administração,27,8,8,Data Science,42
+44,Vendas,28,9,4,Data Science,37
+38,Engenharia,20,9,5,Data Science,44
+31,Vendas,7,1,3,Product Management,68
+54,Vendas,20,2,8,Product Management,56
+55,Saúde,23,8,7,Data Science,50
+53,Saúde,28,4,3,UX/UI Design,45
+30,Administração,21,9,1,Data Science,43
+55,Educação,30,2,3,UX/UI Design,51
+19,Engenharia,29,6,4,UX/UI Design,45
+44,Engenharia,39,3,6,UX/UI Design,38
+31,Administração,40,6,1,UX/UI Design,33
+38,Saúde,28,9,10,Data Science,41
+52,Saúde,21,4,9,UX/UI Design,52
+45,Vendas,28,10,8,Data Science,41
+20,Administração,35,9,6,Data Science,39
+33,Saúde,12,4,5,UX/UI Design,63
+26,Administração,35,1,2,Product Management,41
+36,Engenharia,32,7,1,UX/UI Design,42
+52,Vendas,21,5,1,UX/UI Design,46
+25,Direito,15,5,10,Desenvolvimento Full Stack,57
+55,Educação,13,2,6,UX/UI Design,62
+45,Direito,35,5,2,Cybersecurity,37
+51,Saúde,30,4,3,UX/UI Design,48
+55,Direito,34,7,3,Cybersecurity,35
+42,Administração,14,2,7,Product Management,59
+42,Saúde,30,3,9,UX/UI Design,47
+44,Atendimento,24,10,3,Data Science,42
+41,Atendimento,19,3,6,Cybersecurity,50
+50,Direito,29,6,1,Cybersecurity,43
+48,Atendimento,31,9,2,Data Science,35
+51,Engenharia,29,9,1,Data Science,44
+25,Engenharia,28,6,6,UX/UI Design,48
+23,Vendas,9,6,2,UX/UI Design,59
+22,Engenharia,7,4,5,UX/UI Design,66
+29,Educação,13,3,2,UX/UI Design,60
+26,Administração,20,2,10,Product Management,58
+49,Educação,13,8,9,Data Science,50
+37,Administração,20,7,7,Desenvolvimento Full Stack,44
+36,Educação,28,9,1,Data Science,42
+55,Atendimento,40,3,8,Cybersecurity,40
+26,Engenharia,39,9,3,Data Science,34
+21,Atendimento,16,5,10,Desenvolvimento Full Stack,57
+52,Educação,20,7,2,UX/UI Design,52
+53,Atendimento,15,4,5,Cybersecurity,56
+36,Vendas,39,7,6,UX/UI Design,30
+51,Saúde,5,7,3,UX/UI Design,57
+34,Engenharia,30,4,7,UX/UI Design,41
+44,Engenharia,40,4,1,UX/UI Design,37
+37,Administração,27,5,2,UX/UI Design,44
+40,Administração,35,8,4,Data Science,39
+38,Saúde,19,7,5,UX/UI Design,48
+46,Direito,29,3,7,Cybersecurity,45
+41,Direito,8,2,5,Cybersecurity,60
+40,Educação,15,3,1,UX/UI Design,54
+20,Administração,7,7,2,UX/UI Design,64
+27,Vendas,35,4,6,Product Management,36
+51,Vendas,16,2,3,Product Management,56
+42,Atendimento,19,5,10,Desenvolvimento Full Stack,56
+53,Saúde,20,8,4,Data Science,48
+38,Vendas,24,8,4,Data Science,49
+26,Administração,35,7,7,Desenvolvimento Full Stack,37
+42,Engenharia,23,8,7,Data Science,42
+22,Atendimento,38,5,6,Cybersecurity,39
+26,Engenharia,19,10,9,Data Science,45
+42,Engenharia,11,4,1,UX/UI Design,58
+50,Direito,6,5,2,Cybersecurity,65
+44,Engenharia,21,5,4,UX/UI Design,52
+36,Atendimento,15,5,9,Desenvolvimento Full Stack,60
+43,Saúde,36,3,2,UX/UI Design,45
+47,Vendas,35,8,8,Data Science,39
+41,Administração,36,5,6,UX/UI Design,41
+34,Administração,11,10,6,Data Science,48
+27,Saúde,37,1,5,UX/UI Design,45
+52,Vendas,13,7,1,UX/UI Design,52
+27,Engenharia,20,8,6,Data Science,43
+50,Administração,5,10,6,Data Science,60
+39,Engenharia,13,10,5,Data Science,55
+24,Administração,24,3,6,Product Management,49
+42,Saúde,16,2,8,UX/UI Design,53
+42,Saúde,26,1,4,UX/UI Design,54
+36,Atendimento,33,6,4,Cybersecurity,45
+20,Saúde,31,2,3,UX/UI Design,43
+19,Administração,14,7,7,Desenvolvimento Full Stack,58
+28,Saúde,19,4,7,UX/UI Design,56
+50,Vendas,32,10,9,Data Science,32
+51,Engenharia,36,4,9,UX/UI Design,37
+33,Educação,19,1,9,UX/UI Design,58
+50,Atendimento,40,6,6,Cybersecurity,34
+34,Administração,14,4,8,Product Management,54
+47,Engenharia,37,8,4,Data Science,35
+51,Vendas,38,1,6,Product Management,44
+37,Atendimento,9,10,1,Data Science,59
+41,Saúde,32,10,10,Data Science,38
+34,Vendas,5,1,7,Product Management,64
+38,Engenharia,8,6,6,UX/UI Design,63
+19,Atendimento,11,9,8,Data Science,58
+21,Vendas,38,4,6,Product Management,40
+37,Direito,11,1,1,Cybersecurity,68
+52,Engenharia,13,4,5,UX/UI Design,53
+23,Engenharia,28,6,4,UX/UI Design,47
+43,Engenharia,9,4,5,UX/UI Design,65
+33,Educação,31,4,2,UX/UI Design,43
+22,Educação,36,5,1,UX/UI Design,41
+20,Direito,27,9,7,Data Science,37
+34,Direito,7,6,9,Desenvolvimento Full Stack,65
+32,Atendimento,30,10,10,Data Science,42
+25,Educação,34,9,3,Data Science,32
+48,Direito,38,4,1,Cybersecurity,42
+49,Direito,8,5,8,Desenvolvimento Full Stack,63
+25,Vendas,16,2,9,Product Management,62
+45,Direito,21,9,3,Data Science,49
+23,Direito,5,9,2,Data Science,56
+47,Saúde,38,8,4,Data Science,32
+18,Atendimento,27,7,10,Desenvolvimento Full Stack,44
+31,Atendimento,31,2,7,Cybersecurity,48
+21,Educação,38,1,4,UX/UI Design,41
+31,Direito,26,10,10,Data Science,43
+33,Atendimento,17,4,6,Cybersecurity,54
+33,Atendimento,25,10,7,Data Science,43
+22,Saúde,29,1,1,UX/UI Design,54
+30,Saúde,5,1,7,UX/UI Design,69
+55,Vendas,26,2,6,Product Management,47
+55,Direito,15,1,10,Cybersecurity,57
+48,Saúde,31,1,2,UX/UI Design,48
+46,Educação,11,8,7,Data Science,58
+30,Vendas,34,2,6,Product Management,40
+36,Atendimento,24,10,2,Data Science,46
+46,Engenharia,16,5,7,Desenvolvimento Full Stack,58
+55,Atendimento,40,6,10,Desenvolvimento Full Stack,29
+22,Vendas,8,5,9,Desenvolvimento Full Stack,60
+30,Direito,15,7,9,Desenvolvimento Full Stack,51
+23,Atendimento,25,8,2,Data Science,45
+45,Direito,34,4,2,Cybersecurity,45
+21,Saúde,26,7,4,UX/UI Design,45
+42,Engenharia,14,4,4,UX/UI Design,53
+40,Direito,17,4,2,Cybersecurity,51
+34,Saúde,40,6,5,UX/UI Design,38
+36,Direito,26,3,7,Cybersecurity,52
+30,Direito,7,5,8,Desenvolvimento Full Stack,58
+46,Atendimento,22,10,3,Data Science,42
+29,Vendas,23,8,10,Data Science,45
+31,Atendimento,25,6,5,Cybersecurity,43
+50,Atendimento,36,1,6,Cybersecurity,43
+51,Vendas,10,8,1,Data Science,52
+18,Educação,8,2,7,UX/UI Design,68
+27,Administração,24,6,7,Desenvolvimento Full Stack,50
+36,Engenharia,14,7,3,UX/UI Design,56
+46,Engenharia,34,6,8,Desenvolvimento Full Stack,40
+51,Educação,11,10,9,Data Science,49
+28,Engenharia,12,7,1,UX/UI Design,59
+28,Administração,5,10,2,Data Science,55
+37,Vendas,18,6,5,UX/UI Design,56
+19,Administração,37,10,5,Data Science,27
+42,Engenharia,7,4,4,UX/UI Design,66
+42,Administração,40,8,9,Data Science,36
+47,Engenharia,37,1,8,UX/UI Design,43
+18,Vendas,10,7,10,Desenvolvimento Full Stack,61
+34,Atendimento,8,2,10,Cybersecurity,65
+54,Direito,39,7,5,Cybersecurity,33
+55,Administração,26,7,8,Desenvolvimento Full Stack,40
+25,Atendimento,6,8,3,Data Science,58
+50,Vendas,33,5,4,UX/UI Design,39
+36,Vendas,26,3,7,Product Management,49
+31,Saúde,29,1,6,UX/UI Design,49
+39,Vendas,36,10,4,Data Science,35
+25,Atendimento,33,6,1,Cybersecurity,40
+29,Vendas,34,7,5,UX/UI Design,38
+22,Educação,38,8,2,Data Science,35
+26,Engenharia,30,10,5,Data Science,42
+23,Educação,36,8,7,Data Science,34
+25,Administração,35,4,10,Product Management,40
+28,Vendas,33,2,7,Product Management,48
+41,Engenharia,38,6,1,UX/UI Design,37
+34,Administração,21,2,9,Product Management,54
+51,Engenharia,15,6,6,UX/UI Design,58
+33,Atendimento,31,4,3,Cybersecurity,42
+40,Educação,38,7,3,UX/UI Design,40
+43,Atendimento,37,3,7,Cybersecurity,36
+46,Vendas,19,3,7,Product Management,58
+25,Vendas,29,7,6,UX/UI Design,46
+49,Direito,14,4,8,Cybersecurity,54
+50,Educação,11,5,3,UX/UI Design,57
+34,Educação,19,6,7,Desenvolvimento Full Stack,49
+21,Direito,25,7,3,Cybersecurity,50
+29,Administração,33,3,1,Product Management,47
+20,Saúde,38,7,5,UX/UI Design,35
+50,Atendimento,7,9,2,Data Science,62
+55,Saúde,19,4,2,UX/UI Design,55
+42,Vendas,17,5,4,UX/UI Design,57
+44,Administração,13,3,3,Product Management,59
+25,Direito,38,10,10,Data Science,35
+29,Educação,5,9,4,Data Science,58
+55,Engenharia,9,9,1,Data Science,54
+33,Vendas,28,8,5,Data Science,39
+32,Administração,28,4,8,Product Management,47
+39,Direito,17,6,5,Cybersecurity,56
+41,Vendas,39,5,6,UX/UI Design,35
+19,Administração,26,4,5,Product Management,44
+44,Saúde,29,6,6,UX/UI Design,40
+50,Atendimento,18,6,6,Cybersecurity,54
+47,Atendimento,30,3,10,Cybersecurity,43
+55,Vendas,21,6,7,Desenvolvimento Full Stack,53
+37,Engenharia,9,1,4,UX/UI Design,65
+46,Saúde,18,8,6,Data Science,49
+55,Educação,22,1,7,UX/UI Design,50
+27,Direito,40,8,3,Data Science,35
+49,Saúde,21,6,1,UX/UI Design,48
+53,Vendas,24,8,1,Data Science,47
+31,Direito,23,4,9,Cybersecurity,51
+41,Administração,39,6,5,UX/UI Design,36
+28,Saúde,39,4,2,UX/UI Design,39
+54,Vendas,32,2,4,Product Management,41
+25,Vendas,30,1,1,Product Management,44
+36,Direito,29,6,10,Desenvolvimento Full Stack,45
+46,Engenharia,11,8,10,Data Science,52
+25,Atendimento,23,7,5,Cybersecurity,46
+45,Educação,5,1,4,UX/UI Design,66
+27,Saúde,17,8,8,Data Science,47
+25,Atendimento,22,9,6,Data Science,42
+24,Administração,32,1,6,Product Management,45
+32,Administração,14,10,8,Data Science,54
+20,Engenharia,16,5,6,UX/UI Design,54
+25,Atendimento,8,7,7,Desenvolvimento Full Stack,56
+41,Vendas,9,1,3,Product Management,62
+45,Administração,17,6,6,UX/UI Design,50
+53,Engenharia,21,3,4,UX/UI Design,58
+23,Engenharia,11,9,7,Data Science,59
+30,Direito,40,3,4,Cybersecurity,38
+51,Vendas,17,8,3,Data Science,49
+27,Saúde,37,3,4,UX/UI Design,42
+22,Vendas,27,7,9,Desenvolvimento Full Stack,45
+39,Saúde,16,7,10,Desenvolvimento Full Stack,54
+35,Engenharia,18,6,6,UX/UI Design,52
+49,Educação,20,3,8,UX/UI Design,55
+48,Saúde,28,5,9,Desenvolvimento Full Stack,41
+44,Direito,30,9,7,Data Science,38
+50,Saúde,15,5,5,UX/UI Design,60
+36,Direito,36,2,4,Cybersecurity,39
+55,Direito,17,8,6,Data Science,53
+43,Saúde,30,4,8,UX/UI Design,42
+18,Saúde,13,9,4,Data Science,51
+51,Vendas,34,2,3,Product Management,46
+40,Educação,25,1,4,UX/UI Design,52
+47,Vendas,10,10,4,Data Science,50
+31,Direito,27,8,2,Data Science,46
+18,Administração,24,6,7,Desenvolvimento Full Stack,43
+45,Administração,5,9,3,Data Science,57
+21,Atendimento,29,10,3,Data Science,34
+36,Engenharia,21,6,7,Desenvolvimento Full Stack,54
+27,Saúde,21,7,2,UX/UI Design,46
+44,Vendas,38,1,10,Product Management,37
+50,Atendimento,26,8,9,Data Science,41
+37,Vendas,10,1,1,Product Management,67
+41,Engenharia,19,4,2,UX/UI Design,53
+33,Direito,26,4,6,Cybersecurity,50
+32,Administração,25,6,6,UX/UI Design,43
+52,Educação,28,5,5,UX/UI Design,48
+55,Vendas,36,9,10,Data Science,31
+44,Direito,5,1,7,Cybersecurity,66
+51,Saúde,11,9,4,Data Science,57
+48,Engenharia,20,6,6,UX/UI Design,54
+43,Saúde,39,1,6,UX/UI Design,46
+27,Educação,40,6,5,UX/UI Design,29
+43,Saúde,32,6,1,UX/UI Design,38
+43,Administração,37,6,9,Desenvolvimento Full Stack,35
+19,Vendas,32,4,8,Product Management,39
+20,Administração,11,9,4,Data Science,57
+27,Atendimento,5,8,2,Data Science,58
+25,Atendimento,36,2,5,Cybersecurity,41
+49,Atendimento,10,10,5,Data Science,52
+47,Administração,15,3,8,Product Management,54
+29,Engenharia,35,10,8,Data Science,31
+20,Administração,16,9,2,Data Science,51
+22,Administração,39,4,10,Product Management,40
+54,Engenharia,32,6,5,UX/UI Design,43
+23,Educação,7,8,5,Data Science,57
+33,Vendas,24,10,1,Data Science,39
+36,Administração,19,2,5,Product Management,61
+41,Educação,7,2,5,UX/UI Design,62
+29,Educação,20,10,5,Data Science,44
+43,Atendimento,25,7,5,Cybersecurity,47
+23,Saúde,6,5,5,UX/UI Design,62
+33,Direito,14,4,5,Cybersecurity,56
+37,Administração,32,2,5,Product Management,49
+27,Educação,25,4,8,UX/UI Design,46
+19,Vendas,33,6,8,Desenvolvimento Full Stack,41
+49,Vendas,13,5,1,UX/UI Design,58
+43,Engenharia,30,4,2,UX/UI Design,49
+48,Atendimento,40,4,5,Cybersecurity,39
+54,Administração,19,10,9,Data Science,46
+50,Direito,8,5,6,Cybersecurity,63
+36,Engenharia,29,7,8,Desenvolvimento Full Stack,44
+33,Educação,39,7,4,UX/UI Design,35
+43,Administração,33,4,7,Product Management,38
+33,Vendas,24,3,3,Product Management,47
+33,Saúde,6,4,9,UX/UI Design,66
+36,Saúde,16,4,5,UX/UI Design,57
+52,Vendas,13,5,8,Desenvolvimento Full Stack,56
+32,Educação,10,1,5,UX/UI Design,60
+35,Engenharia,22,2,8,UX/UI Design,55
+45,Educação,5,10,7,Data Science,62
+30,Atendimento,16,9,9,Data Science,55
+24,Educação,23,8,5,Data Science,44
+18,Vendas,10,3,2,Product Management,64
+55,Direito,6,6,2,Cybersecurity,62
+24,Vendas,30,4,5,Product Management,48
+19,Atendimento,18,9,5,Data Science,49
+44,Direito,37,6,8,Desenvolvimento Full Stack,37
+45,Educação,39,9,8,Data Science,32
+18,Administração,25,6,10,Desenvolvimento Full Stack,46
+53,Direito,23,3,1,Cybersecurity,50
+39,Direito,13,4,6,Cybersecurity,56
+47,Direito,8,8,9,Data Science,58
+18,Direito,11,8,9,Data Science,53
+40,Educação,35,1,10,UX/UI Design,43
+37,Direito,27,8,3,Data Science,44
+22,Administração,31,9,1,Data Science,33
+39,Engenharia,32,9,9,Data Science,33
+49,Vendas,39,6,9,Desenvolvimento Full Stack,37
+50,Vendas,29,2,3,Product Management,49
+46,Engenharia,38,7,7,Desenvolvimento Full Stack,32
+53,Vendas,22,10,9,Data Science,40
+44,Administração,27,3,2,Product Management,45
+31,Educação,8,10,1,Data Science,58
+36,Direito,25,2,2,Cybersecurity,47
+33,Atendimento,22,6,10,Desenvolvimento Full Stack,50
+18,Vendas,17,7,3,UX/UI Design,53
+29,Saúde,9,1,4,UX/UI Design,67
+36,Administração,6,9,9,Data Science,62
+55,Vendas,33,9,7,Data Science,41
+51,Administração,6,8,4,Data Science,56
+33,Administração,23,6,2,UX/UI Design,51
+49,Administração,5,10,3,Data Science,60
+48,Engenharia,31,1,1,UX/UI Design,50
+55,Saúde,14,1,3,UX/UI Design,61
+37,Atendimento,24,3,4,Cybersecurity,49
+28,Atendimento,14,5,8,Desenvolvimento Full Stack,58
+25,Direito,6,10,3,Data Science,55
+39,Vendas,24,7,6,UX/UI Design,48
+55,Saúde,16,4,3,UX/UI Design,59
+20,Saúde,21,1,4,UX/UI Design,58
+41,Educação,32,8,6,Data Science,38
+21,Saúde,21,1,3,UX/UI Design,53
+48,Administração,7,1,5,Product Management,68
+54,Atendimento,30,9,6,Data Science,44
+34,Vendas,12,7,10,Desenvolvimento Full Stack,57
+26,Educação,11,1,4,UX/UI Design,64
+22,Direito,30,4,6,Cybersecurity,49
+24,Atendimento,11,7,7,Desenvolvimento Full Stack,61
+42,Educação,27,2,2,UX/UI Design,50
+18,Administração,36,10,9,Data Science,35
+30,Direito,27,8,9,Data Science,45
+51,Engenharia,36,9,10,Data Science,33
+23,Educação,7,10,5,Data Science,53
+46,Atendimento,27,9,6,Data Science,40
+25,Administração,7,5,7,Desenvolvimento Full Stack,65
+54,Saúde,37,3,2,UX/UI Design,40
+55,Atendimento,23,8,7,Data Science,49
+18,Engenharia,19,4,7,UX/UI Design,55
+52,Educação,23,6,3,UX/UI Design,45
+31,Educação,20,2,7,UX/UI Design,58
+44,Engenharia,10,10,3,Data Science,55
+52,Engenharia,8,8,1,Data Science,60
+53,Vendas,10,8,10,Data Science,59
+49,Vendas,15,4,3,Product Management,59
+52,Direito,23,2,9,Cybersecurity,48
+35,Saúde,37,7,5,UX/UI Design,32
+52,Saúde,9,3,1,UX/UI Design,59
+48,Saúde,24,4,4,UX/UI Design,49
+45,Administração,20,5,3,UX/UI Design,54
+37,Saúde,12,10,9,Data Science,50
+41,Direito,29,5,4,Cybersecurity,41
+32,Saúde,12,1,2,UX/UI Design,63
+30,Vendas,23,3,3,Product Management,50
+42,Direito,6,3,3,Cybersecurity,61
+47,Vendas,10,3,10,Product Management,61
+53,Direito,17,7,2,Cybersecurity,56
+45,Administração,27,3,10,Product Management,47
+25,Direito,24,1,1,Cybersecurity,51
+45,Engenharia,27,1,7,UX/UI Design,50
+23,Engenharia,7,9,3,Data Science,54
+23,Atendimento,7,8,5,Data Science,63
+49,Administração,24,1,8,Product Management,55
+34,Atendimento,13,8,10,Data Science,49
+21,Educação,16,6,2,UX/UI Design,49
+54,Educação,9,1,7,UX/UI Design,70
+36,Vendas,6,2,4,Product Management,68
+54,Educação,28,2,3,UX/UI Design,50
+50,Administração,20,2,7,Product Management,53
+18,Atendimento,24,1,1,Cybersecurity,57
+28,Vendas,23,2,8,Product Management,48
+20,Administração,25,4,3,Product Management,53
+55,Direito,10,1,1,Cybersecurity,64
+55,Educação,18,9,9,Data Science,47
+22,Engenharia,14,10,5,Data Science,55
+20,Direito,37,3,1,Cybersecurity,37
+40,Engenharia,24,3,1,UX/UI Design,49
+44,Educação,22,8,4,Data Science,51
+36,Educação,28,6,7,Desenvolvimento Full Stack,41
+32,Administração,18,5,3,UX/UI Design,55
+34,Direito,33,8,6,Data Science,42
+52,Administração,15,10,4,Data Science,54
+30,Engenharia,24,6,8,Desenvolvimento Full Stack,46
+22,Saúde,32,10,9,Data Science,34
+33,Educação,10,6,2,UX/UI Design,61
+55,Administração,12,3,2,Product Management,65
+33,Atendimento,35,6,5,Cybersecurity,40
+34,Engenharia,5,3,7,UX/UI Design,62
+47,Engenharia,31,2,7,UX/UI Design,46
+44,Direito,13,7,8,Desenvolvimento Full Stack,58
+51,Engenharia,6,8,7,Data Science,63
+25,Vendas,38,7,9,Desenvolvimento Full Stack,34
+26,Direito,16,7,4,Cybersecurity,53
+33,Direito,33,4,2,Cybersecurity,45
+26,Atendimento,28,2,8,Cybersecurity,45
+30,Saúde,21,4,5,UX/UI Design,56
+47,Atendimento,33,9,6,Data Science,38
+47,Administração,38,9,5,Data Science,35
+48,Saúde,5,8,6,Data Science,59
+23,Vendas,21,5,4,UX/UI Design,54
+49,Administração,13,2,4,Product Management,56
+33,Engenharia,34,1,6,UX/UI Design,42
+44,Engenharia,38,7,8,Desenvolvimento Full Stack,36
+41,Educação,29,10,9,Data Science,41
+37,Engenharia,29,6,6,UX/UI Design,46
+46,Direito,5,4,5,Cybersecurity,66
+51,Direito,14,1,8,Cybersecurity,62
+49,Saúde,17,3,6,UX/UI Design,58
+21,Administração,24,3,2,Product Management,53
+46,Administração,29,6,6,UX/UI Design,44
+22,Vendas,20,7,4,UX/UI Design,54
+24,Educação,19,2,7,UX/UI Design,56
+35,Administração,32,6,7,Desenvolvimento Full Stack,39
+54,Engenharia,31,6,10,Desenvolvimento Full Stack,40
+34,Saúde,35,5,2,UX/UI Design,41
+26,Atendimento,13,4,2,Cybersecurity,54
+55,Engenharia,26,7,5,UX/UI Design,42
+41,Atendimento,11,9,5,Data Science,50
+39,Administração,16,3,1,Product Management,61
+21,Educação,38,9,3,Data Science,36
+49,Educação,19,3,2,UX/UI Design,58
+23,Direito,5,7,3,Cybersecurity,58
+52,Direito,40,8,2,Data Science,34
+28,Vendas,12,9,3,Data Science,52
+25,Saúde,37,2,2,UX/UI Design,43
+42,Saúde,9,7,3,UX/UI Design,63
+35,Administração,18,3,8,Product Management,55
+18,Atendimento,27,2,9,Cybersecurity,53
+22,Engenharia,23,7,7,Desenvolvimento Full Stack,47
+51,Atendimento,7,5,6,Cybersecurity,59
+50,Educação,6,4,2,UX/UI Design,68
+34,Vendas,30,7,3,UX/UI Design,40
+50,Direito,11,8,9,Data Science,55
+39,Atendimento,34,8,7,Data Science,41
+33,Educação,39,2,5,UX/UI Design,35
+50,Direito,16,7,3,Cybersecurity,57
+46,Saúde,28,3,5,UX/UI Design,52
+25,Educação,38,8,6,Data Science,32
+52,Vendas,8,2,2,Product Management,65
+30,Administração,27,1,4,Product Management,54
+26,Atendimento,6,7,10,Desenvolvimento Full Stack,58
+33,Saúde,16,6,9,Desenvolvimento Full Stack,57
+33,Vendas,39,3,7,Product Management,41
+29,Direito,18,10,9,Data Science,52
+51,Direito,24,5,10,Desenvolvimento Full Stack,50
+48,Direito,25,1,3,Cybersecurity,49
+33,Direito,22,10,6,Data Science,43
+40,Vendas,20,3,2,Product Management,52
+32,Administração,26,7,3,UX/UI Design,43
+22,Atendimento,32,4,4,Cybersecurity,45
+40,Direito,18,8,4,Data Science,47
+18,Educação,11,7,2,UX/UI Design,58
+25,Direito,39,3,3,Cybersecurity,39
+19,Atendimento,32,5,3,Cybersecurity,41
+23,Educação,39,6,8,Desenvolvimento Full Stack,37
+46,Atendimento,29,2,7,Cybersecurity,50
+29,Administração,39,4,4,Product Management,35
+43,Administração,39,8,1,Data Science,35
+38,Saúde,14,7,1,UX/UI Design,58
+19,Vendas,32,1,1,Product Management,42
+36,Engenharia,40,7,9,Desenvolvimento Full Stack,30
+26,Engenharia,17,2,8,UX/UI Design,54
+40,Atendimento,34,1,3,Cybersecurity,47
+35,Atendimento,40,3,3,Cybersecurity,38
+46,Direito,26,1,4,Cybersecurity,49
+21,Atendimento,17,10,6,Data Science,45
+35,Administração,11,9,3,Data Science,56
+42,Saúde,21,1,9,UX/UI Design,52
+47,Vendas,22,4,9,Product Management,52
+25,Administração,22,1,2,Product Management,52
+41,Educação,38,1,2,UX/UI Design,44
+53,Engenharia,33,9,1,Data Science,36
+31,Saúde,5,1,6,UX/UI Design,66
+49,Educação,11,7,5,UX/UI Design,57
+55,Vendas,16,9,5,Data Science,46
+54,Direito,22,5,3,Cybersecurity,45
+40,Direito,35,6,5,Cybersecurity,37
+50,Administração,30,3,8,Product Management,43
+37,Engenharia,6,3,6,UX/UI Design,61
+30,Direito,37,4,9,Cybersecurity,43
+48,Administração,33,3,2,Product Management,45
+37,Direito,22,4,10,Cybersecurity,52
+47,Saúde,13,6,10,Desenvolvimento Full Stack,54
+47,Administração,28,8,4,Data Science,44
+44,Atendimento,29,10,1,Data Science,43
+26,Direito,35,2,3,Cybersecurity,40
+48,Atendimento,25,6,10,Desenvolvimento Full Stack,45
+54,Saúde,16,1,3,UX/UI Design,59
+43,Vendas,36,10,10,Data Science,36
+24,Saúde,29,4,5,UX/UI Design,42
+38,Vendas,35,3,9,Product Management,43
+54,Administração,6,10,7,Data Science,54
+48,Engenharia,37,4,8,UX/UI Design,44
+50,Vendas,19,8,4,Data Science,44
+25,Educação,22,2,1,UX/UI Design,50
+44,Atendimento,39,1,1,Cybersecurity,45
+53,Vendas,36,1,3,Product Management,39
+30,Educação,8,3,5,UX/UI Design,67
+18,Administração,13,2,3,Product Management,58
+53,Direito,28,7,5,Cybersecurity,45
+47,Engenharia,13,9,9,Data Science,57
+28,Engenharia,10,8,3,Data Science,52
+31,Saúde,25,8,8,Data Science,47
+36,Saúde,9,5,6,UX/UI Design,64
+31,Administração,30,3,2,Product Management,49
+21,Educação,30,9,2,Data Science,38
+49,Direito,11,8,5,Data Science,57
+48,Engenharia,36,8,4,Data Science,40
+34,Vendas,23,6,3,UX/UI Design,48
+54,Saúde,12,10,9,Data Science,55
+49,Direito,15,8,6,Data Science,49
+47,Atendimento,28,3,8,Cybersecurity,46
+37,Saúde,25,2,1,UX/UI Design,55
+47,Direito,31,10,4,Data Science,33
+48,Direito,16,6,1,Cybersecurity,56
+48,Vendas,36,6,10,Desenvolvimento Full Stack,40
+38,Vendas,18,1,4,Product Management,54
+40,Educação,27,5,5,UX/UI Design,48
+48,Saúde,17,7,3,UX/UI Design,56
+45,Educação,31,10,8,Data Science,42
+36,Atendimento,32,1,8,Cybersecurity,49
+34,Saúde,21,1,2,UX/UI Design,60
+33,Engenharia,29,7,8,Desenvolvimento Full Stack,39
+25,Administração,21,6,1,UX/UI Design,46
+48,Saúde,35,7,8,Desenvolvimento Full Stack,40
+46,Vendas,30,6,1,UX/UI Design,43
+50,Atendimento,31,9,4,Data Science,41
+23,Administração,14,6,3,UX/UI Design,56
+32,Vendas,14,10,4,Data Science,50
+32,Engenharia,12,6,7,Desenvolvimento Full Stack,56
+28,Administração,35,2,1,Product Management,43
+54,Direito,6,8,10,Data Science,55
+51,Administração,36,7,9,Desenvolvimento Full Stack,32
+31,Engenharia,27,10,1,Data Science,36
+37,Engenharia,40,6,2,UX/UI Design,38
+24,Administração,40,3,1,Product Management,36
+35,Vendas,5,9,4,Data Science,63
+29,Educação,5,4,3,UX/UI Design,63
+26,Vendas,31,1,10,Product Management,43
+46,Engenharia,25,4,2,UX/UI Design,45
+23,Administração,25,6,2,UX/UI Design,50
+49,Atendimento,11,4,3,Cybersecurity,58
+31,Engenharia,15,9,2,Data Science,50
+53,Vendas,22,3,3,Product Management,53
+38,Atendimento,7,5,4,Cybersecurity,65
+45,Educação,9,5,6,UX/UI Design,63
+48,Engenharia,35,5,6,UX/UI Design,41
+43,Engenharia,21,8,3,Data Science,42
+31,Saúde,28,6,6,UX/UI Design,41
+28,Vendas,18,1,1,Product Management,59
+18,Atendimento,6,3,1,Cybersecurity,66
+29,Administração,33,3,4,Product Management,41
+48,Direito,40,5,4,Cybersecurity,36
+32,Engenharia,25,3,8,UX/UI Design,47
+48,Educação,34,2,4,UX/UI Design,46
+52,Atendimento,7,9,8,Data Science,61
+22,Saúde,27,5,6,UX/UI Design,43
+31,Atendimento,18,7,7,Desenvolvimento Full Stack,50
+48,Atendimento,17,7,8,Desenvolvimento Full Stack,48
+45,Saúde,17,1,10,UX/UI Design,57
+18,Administração,27,2,3,Product Management,45
+29,Engenharia,26,3,10,UX/UI Design,51
+54,Saúde,13,3,6,UX/UI Design,63
+53,Saúde,34,6,1,UX/UI Design,39
+34,Atendimento,40,7,3,Cybersecurity,35
+50,Vendas,7,7,3,UX/UI Design,62
+18,Saúde,20,10,10,Data Science,41
+29,Engenharia,30,5,6,UX/UI Design,47
+53,Administração,33,7,3,UX/UI Design,39
+35,Educação,31,7,2,UX/UI Design,43
+18,Direito,19,1,6,Cybersecurity,60
+27,Saúde,36,3,4,UX/UI Design,42
+55,Atendimento,40,10,5,Data Science,30
+43,Saúde,14,6,6,UX/UI Design,54
+42,Vendas,35,6,1,UX/UI Design,38
+23,Engenharia,28,6,7,Desenvolvimento Full Stack,46
+35,Direito,36,4,4,Cybersecurity,41
+43,Administração,38,8,10,Data Science,35
+40,Direito,35,3,8,Cybersecurity,39
+55,Engenharia,35,6,8,Desenvolvimento Full Stack,39
+38,Atendimento,21,3,7,Cybersecurity,53
+23,Engenharia,11,1,4,UX/UI Design,63
+20,Direito,17,2,7,Cybersecurity,53
+25,Engenharia,9,7,9,Desenvolvimento Full Stack,53
+25,Vendas,15,8,7,Data Science,52
+44,Direito,18,6,5,Cybersecurity,56
+44,Engenharia,24,5,10,Desenvolvimento Full Stack,50
+36,Educação,23,3,10,UX/UI Design,56
+32,Atendimento,27,2,9,Cybersecurity,53
+35,Direito,19,8,6,Data Science,48
+47,Saúde,19,6,5,UX/UI Design,55
+54,Engenharia,10,3,4,UX/UI Design,58
+47,Saúde,28,5,10,Desenvolvimento Full Stack,46
+21,Direito,9,10,2,Data Science,51
+45,Administração,26,10,5,Data Science,46
+47,Direito,18,8,10,Data Science,52
+36,Educação,39,3,5,UX/UI Design,40
+24,Vendas,8,10,3,Data Science,53
+18,Educação,31,2,9,UX/UI Design,46
+33,Direito,34,7,1,Cybersecurity,39
+40,Administração,30,3,7,Product Management,44
+32,Atendimento,13,1,9,Cybersecurity,67
+52,Educação,39,2,10,UX/UI Design,40
+42,Administração,35,3,4,Product Management,44
+43,Atendimento,7,8,7,Data Science,62
+54,Direito,28,2,4,Cybersecurity,50
+31,Atendimento,14,3,10,Cybersecurity,56
+18,Educação,18,5,1,UX/UI Design,55
+26,Atendimento,11,7,5,Cybersecurity,52
+49,Educação,19,6,6,UX/UI Design,49
+27,Direito,20,2,3,Cybersecurity,51
+44,Educação,29,8,8,Data Science,40
+21,Engenharia,19,2,3,UX/UI Design,55
+45,Atendimento,40,7,9,Desenvolvimento Full Stack,29
+51,Educação,6,2,4,UX/UI Design,69
+46,Engenharia,15,2,9,UX/UI Design,63
+52,Atendimento,36,3,6,Cybersecurity,36
+30,Saúde,14,1,1,UX/UI Design,58
+49,Vendas,31,2,4,Product Management,46
+34,Saúde,12,9,5,Data Science,54
+50,Educação,22,3,3,UX/UI Design,48
+48,Engenharia,9,10,8,Data Science,56
+37,Vendas,31,3,3,Product Management,50
+37,Saúde,10,7,1,UX/UI Design,56
+39,Administração,33,10,5,Data Science,37
+43,Engenharia,11,6,5,UX/UI Design,55
+32,Atendimento,33,6,5,Cybersecurity,40
+22,Direito,29,7,2,Cybersecurity,43
+49,Administração,33,2,3,Product Management,44
+42,Engenharia,26,8,1,Data Science,48
+33,Direito,15,8,3,Data Science,52
+26,Administração,29,1,7,Product Management,54
+34,Administração,5,9,4,Data Science,54
+27,Direito,28,3,2,Cybersecurity,50
+43,Administração,17,4,10,Product Management,57
+35,Administração,25,9,3,Data Science,44
+31,Engenharia,11,10,2,Data Science,56
+20,Administração,28,1,5,Product Management,52
+48,Engenharia,27,10,1,Data Science,39
+38,Atendimento,25,10,5,Data Science,46
+46,Educação,30,2,9,UX/UI Design,44
+30,Educação,24,7,3,UX/UI Design,42
+31,Administração,34,2,7,Product Management,45
+33,Educação,40,8,5,Data Science,28
+33,Saúde,22,8,1,Data Science,48
+35,Educação,20,1,3,UX/UI Design,52
+30,Atendimento,25,6,10,Desenvolvimento Full Stack,47
+38,Atendimento,8,10,4,Data Science,59
+50,Educação,15,7,8,Desenvolvimento Full Stack,53
+47,Engenharia,37,7,9,Desenvolvimento Full Stack,32
+50,Engenharia,5,2,5,UX/UI Design,71
+50,Vendas,9,1,6,Product Management,69
+40,Vendas,38,8,3,Data Science,36
+26,Administração,20,9,5,Data Science,47
+25,Engenharia,19,10,4,Data Science,45
+25,Atendimento,39,8,2,Data Science,37
+50,Engenharia,20,1,6,UX/UI Design,61
+32,Saúde,37,4,7,UX/UI Design,37
+37,Saúde,16,5,9,Desenvolvimento Full Stack,53
+22,Saúde,20,3,10,UX/UI Design,59
+20,Direito,17,7,3,Cybersecurity,50
+20,Direito,5,1,1,Cybersecurity,65
+49,Direito,35,1,7,Cybersecurity,45
+45,Atendimento,24,6,1,Cybersecurity,49
+51,Saúde,22,7,6,UX/UI Design,52
+26,Direito,29,9,1,Data Science,35
+43,Engenharia,28,3,9,UX/UI Design,47
+37,Saúde,28,4,7,UX/UI Design,49
+46,Direito,22,5,9,Desenvolvimento Full Stack,54
+55,Saúde,7,8,8,Data Science,56
+22,Saúde,32,7,9,Desenvolvimento Full Stack,43
+55,Engenharia,15,7,1,UX/UI Design,49
+46,Administração,39,1,4,Product Management,41
+40,Saúde,21,2,10,UX/UI Design,52
+37,Saúde,6,6,8,Desenvolvimento Full Stack,64
+37,Vendas,25,2,5,Product Management,52
+22,Engenharia,22,6,3,UX/UI Design,45
+54,Atendimento,31,1,9,Cybersecurity,43
+51,Atendimento,27,1,2,Cybersecurity,52
+55,Engenharia,5,9,8,Data Science,57
+23,Vendas,6,5,4,UX/UI Design,66
+22,Administração,38,5,8,Desenvolvimento Full Stack,34
+30,Direito,23,9,7,Data Science,44
+51,Vendas,14,1,9,Product Management,56
+30,Administração,33,1,3,Product Management,47
+47,Engenharia,21,1,9,UX/UI Design,51
+40,Direito,38,10,10,Data Science,30
+46,Administração,30,8,9,Data Science,41
+21,Engenharia,19,1,7,UX/UI Design,60
+29,Educação,25,9,8,Data Science,39
+38,Educação,23,8,8,Data Science,42
+20,Educação,27,6,10,Desenvolvimento Full Stack,45
+32,Atendimento,30,5,5,Cybersecurity,44
+27,Educação,32,8,7,Data Science,37
+48,Vendas,7,2,4,Product Management,62
+40,Direito,32,10,2,Data Science,40
+45,Saúde,40,7,8,Desenvolvimento Full Stack,32
+21,Educação,5,8,7,Data Science,62
+32,Direito,17,6,10,Desenvolvimento Full Stack,55
+44,Direito,7,9,2,Data Science,55
+35,Direito,7,7,1,Cybersecurity,56
+42,Vendas,38,3,1,Product Management,40
+27,Administração,32,4,4,Product Management,44
+44,Administração,24,2,8,Product Management,51
+51,Saúde,17,1,2,UX/UI Design,61
+31,Administração,38,9,7,Data Science,37
+30,Educação,32,8,10,Data Science,42
+43,Atendimento,37,9,10,Data Science,36
+43,Administração,13,1,8,Product Management,64
+23,Vendas,40,1,10,Product Management,45
+39,Saúde,24,2,3,UX/UI Design,52
+55,Educação,20,3,6,UX/UI Design,51
+25,Educação,18,3,4,UX/UI Design,57
+36,Saúde,26,9,5,Data Science,46
+47,Vendas,37,9,3,Data Science,33
+50,Saúde,25,8,10,Data Science,43
+49,Educação,14,3,5,UX/UI Design,62
+21,Engenharia,15,3,9,UX/UI Design,57
+46,Engenharia,20,3,7,UX/UI Design,52
+47,Direito,26,8,8,Data Science,47
+21,Atendimento,35,6,7,Desenvolvimento Full Stack,42
+26,Administração,20,3,6,Product Management,54
+28,Atendimento,21,9,7,Data Science,42
+50,Atendimento,20,5,7,Desenvolvimento Full Stack,51
+28,Educação,18,1,10,UX/UI Design,57
+26,Educação,38,7,7,Desenvolvimento Full Stack,31
+29,Direito,14,10,6,Data Science,51
+39,Direito,6,4,1,Cybersecurity,61
+51,Engenharia,22,8,2,Data Science,45
+31,Educação,36,1,5,UX/UI Design,42
+25,Direito,22,10,6,Data Science,48
+22,Atendimento,32,9,6,Data Science,36
+55,Direito,13,3,10,Cybersecurity,60
+42,Administração,26,9,1,Data Science,39
+42,Administração,32,1,2,Product Management,44
+24,Direito,10,3,5,Cybersecurity,60
+52,Engenharia,11,5,3,UX/UI Design,56
+47,Atendimento,18,1,2,Cybersecurity,61
+32,Administração,21,8,8,Data Science,45
+29,Direito,37,8,6,Data Science,35
+31,Educação,10,8,2,Data Science,54
+44,Atendimento,19,1,10,Cybersecurity,53
+43,Saúde,28,7,4,UX/UI Design,40
+33,Vendas,31,10,7,Data Science,32
+47,Engenharia,6,1,5,UX/UI Design,66
+28,Educação,5,3,6,UX/UI Design,66
+28,Engenharia,32,8,3,Data Science,41
+45,Vendas,33,9,7,Data Science,41
+38,Direito,23,1,3,Cybersecurity,54
+22,Atendimento,34,7,1,Cybersecurity,42
+23,Administração,22,1,3,Product Management,59
+20,Engenharia,21,5,8,Desenvolvimento Full Stack,53
+42,Engenharia,34,5,10,Desenvolvimento Full Stack,36
+49,Educação,28,3,6,UX/UI Design,52
+46,Direito,6,8,6,Data Science,56
+51,Saúde,35,8,6,Data Science,36
+33,Saúde,19,7,6,UX/UI Design,51
+22,Atendimento,20,7,8,Desenvolvimento Full Stack,53
+27,Administração,8,5,6,UX/UI Design,57
+48,Administração,32,4,10,Product Management,40
+40,Educação,14,10,4,Data Science,50
+32,Administração,19,4,3,Product Management,50
+20,Direito,28,6,9,Desenvolvimento Full Stack,45
+54,Atendimento,26,3,5,Cybersecurity,53
+46,Educação,8,9,2,Data Science,55
+37,Administração,38,10,4,Data Science,33
+27,Administração,32,1,6,Product Management,44
+18,Saúde,35,1,3,UX/UI Design,42
+51,Educação,24,7,7,Desenvolvimento Full Stack,46
+34,Engenharia,35,1,3,UX/UI Design,48
+48,Administração,11,9,8,Data Science,50
+29,Engenharia,24,10,7,Data Science,46
+20,Saúde,27,3,6,UX/UI Design,44
+33,Saúde,25,10,7,Data Science,45
+34,Educação,28,7,9,Desenvolvimento Full Stack,39
+20,Saúde,12,2,10,UX/UI Design,64
+36,Engenharia,18,6,3,UX/UI Design,51
+44,Administração,20,2,9,Product Management,51
+21,Educação,25,4,1,UX/UI Design,48
+44,Saúde,36,10,10,Data Science,34
+21,Engenharia,27,9,9,Data Science,42
+31,Atendimento,19,1,6,Cybersecurity,53
+47,Administração,25,4,1,Product Management,48
+38,Vendas,36,1,5,Product Management,41
+34,Engenharia,29,6,2,UX/UI Design,44
+45,Educação,27,1,9,UX/UI Design,50
+34,Administração,39,1,5,Product Management,40
+52,Direito,15,2,7,Cybersecurity,58
+20,Saúde,5,10,5,Data Science,59
+45,Direito,13,5,6,Cybersecurity,54
+36,Engenharia,16,1,5,UX/UI Design,55
+51,Administração,30,7,2,UX/UI Design,41
+51,Vendas,17,6,6,UX/UI Design,51
+34,Atendimento,24,9,2,Data Science,48
+28,Administração,19,8,6,Data Science,50
+29,Engenharia,5,8,2,Data Science,64
+43,Administração,9,1,5,Product Management,66
+44,Engenharia,22,9,8,Data Science,49
+31,Administração,22,4,7,Product Management,48
+20,Educação,35,10,6,Data Science,29
+19,Educação,25,9,10,Data Science,44
+30,Saúde,12,6,10,Desenvolvimento Full Stack,61
+29,Direito,5,6,10,Desenvolvimento Full Stack,60
+51,Atendimento,15,9,2,Data Science,51
+20,Engenharia,11,1,3,UX/UI Design,63
+49,Direito,19,8,8,Data Science,50
+26,Atendimento,15,1,2,Cybersecurity,58
+34,Direito,7,4,4,Cybersecurity,65
+43,Engenharia,7,3,3,UX/UI Design,62
+47,Engenharia,35,2,3,UX/UI Design,42
+42,Administração,15,10,2,Data Science,45
+38,Educação,37,3,1,UX/UI Design,43
+20,Atendimento,19,5,3,Cybersecurity,57
+38,Direito,20,4,2,Cybersecurity,54
+30,Atendimento,9,6,4,Cybersecurity,60
+51,Administração,29,4,3,Product Management,44
+28,Educação,10,5,7,Desenvolvimento Full Stack,61
+32,Engenharia,37,3,1,UX/UI Design,39
+24,Direito,22,10,8,Data Science,42
+23,Educação,39,9,6,Data Science,35
+48,Vendas,31,6,10,Desenvolvimento Full Stack,37
+26,Direito,9,3,10,Cybersecurity,60
+52,Saúde,27,9,7,Data Science,36
+45,Engenharia,14,6,1,UX/UI Design,53
+30,Atendimento,30,7,10,Desenvolvimento Full Stack,36
+30,Administração,21,1,4,Product Management,57
+29,Direito,18,2,4,Cybersecurity,52
+18,Engenharia,31,10,9,Data Science,41
+55,Vendas,8,1,10,Product Management,66
+33,Vendas,6,4,6,Product Management,65
+43,Educação,21,3,5,UX/UI Design,54
+38,Administração,36,7,4,UX/UI Design,33
+40,Engenharia,6,6,4,UX/UI Design,65
+51,Vendas,16,5,6,UX/UI Design,54
+36,Educação,18,9,7,Data Science,52
+32,Administração,34,6,7,Desenvolvimento Full Stack,35
+29,Administração,33,10,9,Data Science,34
+54,Direito,11,3,10,Cybersecurity,59
+34,Vendas,21,6,9,Desenvolvimento Full Stack,52
+40,Vendas,33,4,5,Product Management,42
+21,Direito,6,7,2,Cybersecurity,64
+37,Engenharia,17,10,10,Data Science,50
+46,Atendimento,16,3,5,Cybersecurity,57
+20,Engenharia,36,8,6,Data Science,36
+51,Educação,11,9,9,Data Science,58
+42,Engenharia,18,1,10,UX/UI Design,61
+36,Administração,25,6,3,UX/UI Design,51
+19,Administração,35,3,5,Product Management,41
+25,Direito,15,7,2,Cybersecurity,53
+36,Engenharia,35,8,9,Data Science,39
+19,Atendimento,21,4,5,Cybersecurity,47
+49,Engenharia,7,9,8,Data Science,58
